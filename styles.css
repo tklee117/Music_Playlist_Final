@@ -1,0 +1,334 @@
+/* 전체 스타일 */
+:root {
+    --primary-color: #ff7e5f;
+    --secondary-color: #feb47b;
+    --background-color: #fff6e9;
+    --text-color: #333;
+    --shadow-color: rgba(0, 0, 0, 0.1);
+    --card-background: #ffffff;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, var(--background-color) 0%, #fff 100%);
+    color: var(--text-color);
+    min-height: 100vh;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+header h1 {
+    color: var(--primary-color);
+    font-size: 2.5rem;
+    text-shadow: 1px 1px 3px var(--shadow-color);
+}
+
+/* 스크린 전환 */
+.active-screen {
+    display: block;
+}
+
+.hidden-screen {
+    display: none;
+}
+
+/* 플레이리스트 화면 */
+.playlists-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+}
+
+.playlist-card {
+    background: var(--card-background);
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px var(--shadow-color);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+}
+
+.playlist-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px var(--shadow-color);
+}
+
+.playlist-cover {
+    position: relative;
+    width: 100%;
+    padding-top: 100%; /* 1:1 비율 유지 */
+    overflow: hidden;
+}
+
+.playlist-cover img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+.playlist-card:hover .playlist-cover img {
+    transform: scale(1.05);
+}
+
+.playlist-info {
+    padding: 15px;
+}
+
+.playlist-info h3 {
+    font-size: 1.1rem;
+    margin-bottom: 5px;
+    color: var(--primary-color);
+}
+
+.playlist-info p {
+    font-size: 0.85rem;
+    color: #888;
+}
+
+/* 플레이어 화면 */
+.player-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.back-button {
+    background: none;
+    border: none;
+    color: var(--primary-color);
+    font-size: 1rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    margin-right: 15px;
+}
+
+.back-button i {
+    margin-right: 5px;
+}
+
+.current-song-info {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.album-cover {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 10px var(--shadow-color);
+    margin-right: 20px;
+}
+
+.album-cover img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.song-details {
+    flex: 1;
+}
+
+.song-details h3 {
+    font-size: 1.5rem;
+    margin-bottom: 5px;
+    color: var(--primary-color);
+}
+
+.song-details p {
+    font-size: 1rem;
+    color: #666;
+}
+
+/* 플레이어 컨트롤 */
+.player-controls {
+    margin-bottom: 30px;
+}
+
+.progress-container {
+    margin-bottom: 15px;
+}
+
+.progress-bar {
+    height: 4px;
+    background-color: #e0e0e0;
+    border-radius: 2px;
+    position: relative;
+    cursor: pointer;
+}
+
+.progress {
+    height: 100%;
+    background: linear-gradient(to right, var(--primary-color), var(--secondary-color));
+    border-radius: 2px;
+    width: 0%;
+}
+
+.time-info {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.8rem;
+    color: #888;
+    margin-top: 5px;
+}
+
+.control-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.control-button {
+    background: none;
+    border: none;
+    font-size: 1.2rem;
+    color: var(--text-color);
+    cursor: pointer;
+    margin: 0 15px;
+    transition: transform 0.2s ease;
+}
+
+.play-button {
+    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+    color: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 10px rgba(255, 126, 95, 0.4);
+}
+
+.control-button:hover {
+    transform: scale(1.1);
+}
+
+/* 가사 섹션 */
+.lyrics-section {
+    margin-bottom: 30px;
+}
+
+.lyrics-button {
+    background-color: transparent;
+    border: 1px solid var(--primary-color);
+    color: var(--primary-color);
+    padding: 8px 15px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.lyrics-button:hover {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+.lyrics-container {
+    margin-top: 15px;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 15px;
+    border-radius: 10px;
+    max-height: 150px;
+    overflow-y: auto;
+    box-shadow: 0 2px 8px var(--shadow-color);
+}
+
+.lyrics-container.hidden {
+    display: none;
+}
+
+/* 플레이리스트 노래 목록 */
+.playlist-songs {
+    margin-top: 20px;
+}
+
+.song-item {
+    display: flex;
+    align-items: center;
+    padding: 10px 15px;
+    background-color: var(--card-background);
+    margin-bottom: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.song-item:hover {
+    background-color: rgba(255, 126, 95, 0.1);
+}
+
+.song-item.active {
+    background-color: rgba(255, 126, 95, 0.2);
+    border-left: 3px solid var(--primary-color);
+}
+
+.song-number {
+    font-size: 0.9rem;
+    color: #888;
+    width: 30px;
+}
+
+.song-item-details {
+    flex: 1;
+}
+
+.song-item-title {
+    font-weight: 600;
+    margin-bottom: 3px;
+}
+
+.song-item-artist {
+    font-size: 0.8rem;
+    color: #888;
+}
+
+.song-duration {
+    font-size: 0.9rem;
+    color: #888;
+}
+
+/* 반응형 디자인 */
+@media (max-width: 768px) {
+    .playlists-container {
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    }
+    
+    .current-song-info {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    
+    .album-cover {
+        margin-right: 0;
+        margin-bottom: 15px;
+    }
+    
+    .control-button {
+        margin: 0 10px;
+    }
+} 

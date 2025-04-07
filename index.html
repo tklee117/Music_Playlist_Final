@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>음악 플레이리스트</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>내 플레이리스트</h1>
+        </header>
+        
+        <div id="playlists-screen" class="active-screen">
+            <div class="playlists-container" id="playlists-container">
+                <!-- 플레이리스트가 여기에 동적으로 로드됩니다 -->
+            </div>
+        </div>
+
+        <div id="player-screen" class="hidden-screen">
+            <div class="player-header">
+                <button id="back-button" class="back-button">
+                    <i class="fas fa-arrow-left"></i> 뒤로
+                </button>
+                <h2 id="current-playlist-title">플레이리스트 제목</h2>
+            </div>
+            
+            <div class="current-song-info">
+                <div class="album-cover">
+                    <img id="current-album-cover" src="default-cover.jpg" alt="앨범 커버">
+                </div>
+                <div class="song-details">
+                    <h3 id="current-song-title">노래 제목</h3>
+                    <p id="current-song-artist">아티스트</p>
+                </div>
+            </div>
+            
+            <div class="player-controls">
+                <div class="progress-container">
+                    <div id="progress-bar" class="progress-bar">
+                        <div id="progress" class="progress"></div>
+                    </div>
+                    <div class="time-info">
+                        <span id="current-time">0:00</span>
+                        <span id="duration">0:00</span>
+                    </div>
+                </div>
+                
+                <div class="control-buttons">
+                    <button id="prev-button" class="control-button">
+                        <i class="fas fa-step-backward"></i>
+                    </button>
+                    <button id="play-pause-button" class="control-button play-button">
+                        <i class="fas fa-play" id="play-icon"></i>
+                    </button>
+                    <button id="next-button" class="control-button">
+                        <i class="fas fa-step-forward"></i>
+                    </button>
+                </div>
+            </div>
+            
+            <div class="lyrics-section">
+                <button id="lyrics-button" class="lyrics-button">가사 보기</button>
+                <div id="lyrics-container" class="lyrics-container hidden">
+                    <p id="lyrics-text">가사를 불러오는 중...</p>
+                </div>
+            </div>
+            
+            <div class="playlist-songs" id="playlist-songs">
+                <!-- 현재 플레이리스트의 노래들이 여기에 동적으로 로드됩니다 -->
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html> 

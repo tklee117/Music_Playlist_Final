@@ -1,0 +1,95 @@
+[
+  {
+    "id": "playlist1",
+    "title": "즐겨듣는 팝송",
+    "coverUrl": "https://source.unsplash.com/random/300x300/?music,pop",
+    "songs": [
+      {
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "url": "https://www.youtube.com/watch?v=JGwWNGJdvx8",
+        "duration": 235,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?edsheeran",
+        "lyrics": "The club isn't the best place to find a lover\nSo the bar is where I go\nMe and my friends at the table doing shots\nDrinking fast and then we talk slow\nAnd you come over and start up a conversation with just me\nAnd trust me I'll give it a chance now..."
+      },
+      {
+        "title": "Someone Like You",
+        "artist": "Adele",
+        "url": "https://www.youtube.com/watch?v=hLQl3WQQoQ0",
+        "duration": 285,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?adele",
+        "lyrics": "I heard that you're settled down\nThat you found a girl and you're married now\nI heard that your dreams came true\nGuess she gave you things I didn't give to you..."
+      },
+      {
+        "title": "Bad Guy",
+        "artist": "Billie Eilish",
+        "url": "https://www.youtube.com/watch?v=DyDfgMOUjCI",
+        "duration": 194,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?billieeilish",
+        "lyrics": "White shirt now red, my bloody nose\nSleeping, you're on your tippy toes\nCreeping around like no one knows\nThink you're so criminal..."
+      }
+    ]
+  },
+  {
+    "id": "playlist2",
+    "title": "K-Pop 컬렉션",
+    "coverUrl": "https://source.unsplash.com/random/300x300/?music,kpop",
+    "songs": [
+      {
+        "title": "Dynamite",
+        "artist": "BTS",
+        "url": "https://www.youtube.com/watch?v=gdZLi9oWNZg",
+        "duration": 199,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?bts",
+        "lyrics": "Shoes on, get up in the morn'\nCup of milk, let's rock and roll\nKing Kong, kick the drum\nRolling on like a Rolling Stone..."
+      },
+      {
+        "title": "How You Like That",
+        "artist": "BLACKPINK",
+        "url": "https://www.youtube.com/watch?v=ioNng23DkIM",
+        "duration": 181,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?blackpink",
+        "lyrics": "보란 듯이 무너졌어\n아름답게 피었어\n이건 너를 위한 show\n한번 더 불어봐..."
+      },
+      {
+        "title": "Love Dive",
+        "artist": "IVE",
+        "url": "https://www.youtube.com/watch?v=Y8JFxS1HlDo",
+        "duration": 177,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?ive",
+        "lyrics": "Narcissistic, my god I love it\n서로를 비춘 밤\n아름다운 까만 눈빛 더 빠져 깊이..."
+      }
+    ]
+  },
+  {
+    "id": "playlist3",
+    "title": "클래식 명곡",
+    "coverUrl": "https://source.unsplash.com/random/300x300/?music,classical",
+    "songs": [
+      {
+        "title": "Moonlight Sonata",
+        "artist": "Ludwig van Beethoven",
+        "url": "https://www.youtube.com/watch?v=4Tr0otuiQuU",
+        "duration": 384,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?beethoven",
+        "lyrics": ""
+      },
+      {
+        "title": "Clair de Lune",
+        "artist": "Claude Debussy",
+        "url": "https://www.youtube.com/watch?v=CvFH_6DNRCY",
+        "duration": 302,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?debussy",
+        "lyrics": ""
+      },
+      {
+        "title": "Air on the G String",
+        "artist": "Johann Sebastian Bach",
+        "url": "https://www.youtube.com/watch?v=GMkmQlfOJDk",
+        "duration": 293,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?bach",
+        "lyrics": ""
+      }
+    ]
+  }
+] 
