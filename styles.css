@@ -1,10 +1,10 @@
 /* 전체 스타일 */
 :root {
-    --primary-color: #ff7e5f;
-    --secondary-color: #feb47b;
-    --background-color: #fff6e9;
+    --primary-color: #ff6b6b;
+    --secondary-color: #ffa5a5;
+    --background-color: #fff0f0;
     --text-color: #333;
-    --shadow-color: rgba(0, 0, 0, 0.1);
+    --shadow-color: rgba(255, 107, 107, 0.2);
     --card-background: #ffffff;
 }
 
@@ -16,7 +16,8 @@
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(135deg, var(--background-color) 0%, #fff 100%);
+    background: url('default-cover.jpg') center center fixed;
+    background-size: cover;
     color: var(--text-color);
     min-height: 100vh;
 }
@@ -25,6 +26,10 @@ body {
     max-width: 1000px;
     margin: 0 auto;
     padding: 20px;
+    background-color: rgba(255, 255, 255, 0.85);
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+    backdrop-filter: blur(5px);
 }
 
 header {
