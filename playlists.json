@@ -1,0 +1,95 @@
+[
+  {
+    "id": "playlist1",
+    "title": "어느 낭만적인 파리의 밤에",
+    "coverUrl": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGFyaXMlMjBuaWdodHxlbnwwfHwwfHx8MA%3D%3D",
+    "songs": [
+      {
+        "title": "별 보러 가자",
+        "artist": "적재",
+        "url": "https://youtu.be/Mz031oU0Xfw?si=PmzXpi2Azc-3cyfL",
+        "duration": 546,
+        "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXWwE_V7oU5k2G2QncXiTwqsVM7ywgon_9RQ&s",
+        "lyrics": "찬 바람이 조금씩 불어오면은\n밤 하늘이 반짝이더라\n긴 하루를 보내고 집에 들어가는 길에\n네 생각이 문득 나더라\n\n어디야 지금 뭐 해\n나랑 별 보러 가지 않을래\n너희 집 앞으로 잠깐 나올래\n가볍게 겉옷 하나 걸치고서 나오면 돼\n\n너무 멀리 가지 않을게\n그렇지만 네 손을 꼭 잡을래\n멋진 별자리 이름은 모르지만\n나와 같이 가줄래\n\n찬 바람이 조금씩 불어 오면은\n네 생각이 난 그렇게 나더라\n긴 하루 끝 고요해진 밤거리를 걷다\n밤 하늘이 너무 좋더라\n\n어디야 지금 뭐해\n나랑 별 보러 가지 않을래\n어디든 좋으니 나와 가줄래\n\n네게 하고 싶었던 말이 너무도 많지만\n너무 서두르지 않을게\n그치만 네 손을 꼭 잡을래\n멋진 별자리 이름은 모르지만\n나와 같이 가줄래\n\n너와 나의 걸음이 향해 가는 그곳이\n어디 일진 모르겠지만\n혼자였던 밤 하늘 너와 함께 걸으면\n그거면 돼"
+      },
+      {
+        "title": "Thinkin Bout You",
+        "artist": "Frank Ocean",
+        "url": "https://youtu.be/6JHu3b-pbh8",
+        "duration": 320,
+        "coverUrl": "https://images.stockcake.com/public/4/9/0/49014f12-64eb-44ba-a34e-382b724c9426_large/romantic-paris-evening-stockcake.jpg",
+        "lyrics": "A tornado flew around my room before you came\nExcuse the mess it made, it usually doesn′t rain in\nSouthern California, much like Arizona\nMy eyes don't shed tears, but, boy, they pour when\n\nI′m thinkin' 'bout you, ooh, no, no, no\nI′ve been thinkin′ 'bout you, you know, know, know\nI′ve been thinkin' ′bout you, do you think about me still?\nDo ya, do ya?\n\nOr do you not think so far ahead?\n'Cause I been thinkin′ 'bout forever, ooh\nOr do you not think so far ahead?\n'Cause I been thinkin′ ′bout forever, ooh\n\nNo, I don't like you, I just thought you were cool enough to kick it\nGot a beach house I could sell you in Idaho\nSince you think I don′t love you, I just thought you were cute\nThat's why I kissed you\nGot a fighter jet, I don′t get to fly it though\nI'm lying down\n\nI′m thinkin' 'bout you, ooh, no, no, no\nI′ve been thinkin′ 'bout you, you know, know, know\nI′ve been thinkin' ′bout you, do you think about me still?\nDo ya, do ya?\n\nOr do you not think so far ahead?\n'Cause I been thinkin′ 'bout forever, ooh\nOr do you not think so far ahead?\n'Cause I been thinkin′ ′bout forever, ooh\n\nYes, of course, I remember, how could I forget (how could I forget)\nHow you feel? (How you feel?)\nYou know you were my first time, a new feel\nIt won't ever get old, not in my soul, not in my spirit, keep it alive\nWe′ll go down this road 'til it turns from color to black and white\n\nOr do you not think so far ahead?\n′Cause I been thinkin' ′bout forever, ooh\nOr do you not think so far ahead?\n'Cause I been thinkin′ ′bout forever, ooh"
+      },
+      {
+        "title": "New Year",
+        "artist": "Mk.gee",
+        "url": "https://youtu.be/iGQjD4gOzNM",
+        "duration": 333,
+        "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt-Si2T19_YnJAc_Fos6cVkMZAd7HeZb9siA&s",
+        "lyrics": "Many heads in your living room\nAll from high school who never moved\nCounting to\nAlways talking\nAnd there you are\nSame as last year\nIt's so bizarre\nOoh\n\nYou came back the same\nNot everybody wants to change\nSee your mind is stuck in champagne\nYou may never cross your lane\nOoh\n\nYou came back the same\nNot everybody wants to change\nSee your mind is stuck in champagne\nYou may never cross your lane\nOoh"
+      }
+    ]
+  },
+  {
+    "id": "playlist2",
+    "title": "K-Pop 컬렉션",
+    "coverUrl": "https://source.unsplash.com/random/300x300/?music,kpop",
+    "songs": [
+      {
+        "title": "Dynamite",
+        "artist": "BTS",
+        "url": "https://www.youtube.com/watch?v=gdZLi9oWNZg",
+        "duration": 199,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?bts",
+        "lyrics": "Shoes on, get up in the morn'\nCup of milk, let's rock and roll\nKing Kong, kick the drum\nRolling on like a Rolling Stone..."
+      },
+      {
+        "title": "How You Like That",
+        "artist": "BLACKPINK",
+        "url": "https://www.youtube.com/watch?v=ioNng23DkIM",
+        "duration": 181,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?blackpink",
+        "lyrics": "보란 듯이 무너졌어\n아름답게 피었어\n이건 너를 위한 show\n한번 더 불어봐..."
+      },
+      {
+        "title": "Love Dive",
+        "artist": "IVE",
+        "url": "https://www.youtube.com/watch?v=Y8JFxS1HlDo",
+        "duration": 177,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?ive",
+        "lyrics": "Narcissistic, my god I love it\n서로를 비춘 밤\n아름다운 까만 눈빛 더 빠져 깊이..."
+      }
+    ]
+  },
+  {
+    "id": "playlist3",
+    "title": "클래식 명곡",
+    "coverUrl": "https://source.unsplash.com/random/300x300/?music,classical",
+    "songs": [
+      {
+        "title": "Moonlight Sonata",
+        "artist": "Ludwig van Beethoven",
+        "url": "https://www.youtube.com/watch?v=4Tr0otuiQuU",
+        "duration": 384,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?beethoven",
+        "lyrics": ""
+      },
+      {
+        "title": "Clair de Lune",
+        "artist": "Claude Debussy",
+        "url": "https://www.youtube.com/watch?v=CvFH_6DNRCY",
+        "duration": 302,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?debussy",
+        "lyrics": ""
+      },
+      {
+        "title": "Air on the G String",
+        "artist": "Johann Sebastian Bach",
+        "url": "https://www.youtube.com/watch?v=GMkmQlfOJDk",
+        "duration": 293,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?bach",
+        "lyrics": ""
+      }
+    ]
+  }
+] 
