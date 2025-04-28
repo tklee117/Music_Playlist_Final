@@ -61,5 +61,172 @@
         "lyrics": ""
       }
     ]
+  },
+  {
+    "id": "playlist2",
+    "title": "봄이 다가오니 너가 생각나더라",
+    "coverUrl": "https://source.unsplash.com/random/300x300/?spring,cherry,blossom",
+    "songs": [
+      {
+        "title": "Officially Missing You",
+        "artist": "긱스 (Geeks)",
+        "url": "https://www.youtube.com/watch?v=3J-0MJIlLeA",
+        "duration": 209,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?missing",
+        "lyrics": ""
+      },
+      {
+        "title": "I Need You",
+        "artist": "허각 & 지아 (Huh Gak & ZIA)",
+        "url": "https://www.youtube.com/watch?v=y5MDA4bUIJ0",
+        "duration": 223,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?need",
+        "lyrics": ""
+      },
+      {
+        "title": "All For You",
+        "artist": "서인국 & 정은지 (Seo In-guk & Jung Eun-ji)",
+        "url": "https://www.youtube.com/watch?v=Q_GyneFGQ74",
+        "duration": 249,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?all",
+        "lyrics": ""
+      },
+      {
+        "title": "봄 사랑 벚꽃 말고 (Not Spring, Love, or Cherry Blossoms)",
+        "artist": "HIGH4 & 아이유 (IU)",
+        "url": "https://www.youtube.com/watch?v=ouR4nn1G9r4",
+        "duration": 195,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?blossom",
+        "lyrics": ""
+      },
+      {
+        "title": "우연히 봄 (Spring by Chance)",
+        "artist": "로꼬 & 유주 (Loco & Yuju)",
+        "url": "https://www.youtube.com/watch?v=YdjrBLfZT20",
+        "duration": 201,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?chance",
+        "lyrics": ""
+      },
+      {
+        "title": "잔소리 (Nagging)",
+        "artist": "아이유 (IU)",
+        "url": "https://www.youtube.com/watch?v=TqIAndOnd74",
+        "duration": 213,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?nagging",
+        "lyrics": ""
+      },
+      {
+        "title": "짧은머리 (Short Hair)",
+        "artist": "허각 & 정은지 (Huh Gak & Jung Eun-ji)",
+        "url": "https://www.youtube.com/watch?v=aKcVTyBH8Ak",
+        "duration": 221,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?hair",
+        "lyrics": ""
+      },
+      {
+        "title": "Love Blossom",
+        "artist": "케이윌 (K.Will)",
+        "url": "https://www.youtube.com/watch?v=iRGOb9WHnHQ",
+        "duration": 216,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?blossom",
+        "lyrics": ""
+      },
+      {
+        "title": "니가 필요해 (I Need You)",
+        "artist": "케이윌 (K.Will)",
+        "url": "https://www.youtube.com/watch?v=pgP0YngFIZo",
+        "duration": 218,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?need",
+        "lyrics": ""
+      },
+      {
+        "title": "봄봄봄 (Spring Spring Spring)",
+        "artist": "로이킴 (Roy Kim)",
+        "url": "https://www.youtube.com/watch?v=MiaJJvxN6MM",
+        "duration": 209,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?spring",
+        "lyrics": ""
+      },
+      {
+        "title": "썸 (Some)",
+        "artist": "소유 & 정기고 (Soyou & Junggigo)",
+        "url": "https://www.youtube.com/watch?v=Y-FhDScM_2w",
+        "duration": 211,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?flirt",
+        "lyrics": ""
+      },
+      {
+        "title": "금요일에 만나요 (Friday)",
+        "artist": "아이유 (IU)",
+        "url": "https://www.youtube.com/watch?v=EiVmQZwJhsA",
+        "duration": 217,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?friday",
+        "lyrics": ""
+      },
+      {
+        "title": "봄 타나봐 (Spring Fever)",
+        "artist": "서인국 (Seo In-guk)",
+        "url": "https://www.youtube.com/watch?v=WW1DWMFoGY4",
+        "duration": 197,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?fever",
+        "lyrics": ""
+      },
+      {
+        "title": "Me You",
+        "artist": "San E",
+        "url": "https://www.youtube.com/watch?v=nUYu7SFzhBQ",
+        "duration": 209,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?you",
+        "lyrics": ""
+      },
+      {
+        "title": "너 사용법 (Manual)",
+        "artist": "에디킴 (Eddy Kim)",
+        "url": "https://www.youtube.com/watch?v=nabdMzh--k8",
+        "duration": 182,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?manual",
+        "lyrics": ""
+      },
+      {
+        "title": "하늘바라기 (The Blue Night of Jeju Island)",
+        "artist": "정은지 (Jung Eun-ji)",
+        "url": "https://www.youtube.com/watch?v=MV7QOoIVElc",
+        "duration": 221,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?sky",
+        "lyrics": ""
+      },
+      {
+        "title": "말해! 뭐해? (Talk, What Are You Doing?)",
+        "artist": "케이윌 (K.Will)",
+        "url": "https://www.youtube.com/watch?v=gCp5R2LHHGc",
+        "duration": 217,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?talk",
+        "lyrics": ""
+      },
+      {
+        "title": "봄이 좋냐?? (Do You Like Spring?)",
+        "artist": "10CM",
+        "url": "https://www.youtube.com/watch?v=cIGgSI1uhKI",
+        "duration": 206,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?question",
+        "lyrics": ""
+      },
+      {
+        "title": "꽃송이가 (Cherry Blossom)",
+        "artist": "버스커 버스커 (Busker Busker)",
+        "url": "https://www.youtube.com/watch?v=H8F5eCxgh0A",
+        "duration": 205,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?blossom",
+        "lyrics": ""
+      },
+      {
+        "title": "벚꽃 엔딩 (Cherry Blossom Ending)",
+        "artist": "버스커 버스커 (Busker Busker)",
+        "url": "https://www.youtube.com/watch?v=tXV7dfvSefo",
+        "duration": 265,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?cherry",
+        "lyrics": ""
+      }
+    ]
   }
 ]
