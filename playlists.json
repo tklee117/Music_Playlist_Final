@@ -1,55 +1,63 @@
 [
   {
     "id": "playlist1",
-    "title": "어깨가 그루비해지는듯...!",
-    "coverUrl": "https://source.unsplash.com/random/300x300/?music,groove",
+    "title": "너를 위한 노래들 ~ :)",
+    "coverUrl": "https://source.unsplash.com/random/300x300/?music,love",
     "songs": [
       {
-        "title": "It Runs Through Me",
-        "artist": "Tom Misch (Feat. De La Soul)",
-        "url": "https://www.youtube.com/watch?v=M1N_wbhAfQ4",
-        "duration": 262,
-        "coverUrl": "https://source.unsplash.com/random/300x300/?tommisch",
+        "title": "My shadow",
+        "artist": "The Black Skirts",
+        "url": "https://www.youtube.com/watch?v=T15zuMtqBoE",
+        "duration": 237,
+        "coverUrl": "https://img.youtube.com/vi/T15zuMtqBoE/hqdefault.jpg",
         "lyrics": ""
       },
       {
-        "title": "Georgy Porgy",
-        "artist": "Toto",
-        "url": "https://www.youtube.com/watch?v=kC2QK6KHnEA",
-        "duration": 247,
-        "coverUrl": "https://source.unsplash.com/random/300x300/?toto",
+        "title": "Luther",
+        "artist": "Kendrick Lamar (feat. SZA)",
+        "url": "https://www.youtube.com/watch?v=HfWLgELllZs",
+        "duration": 251,
+        "coverUrl": "https://img.youtube.com/vi/HfWLgELllZs/hqdefault.jpg",
         "lyrics": ""
       },
       {
-        "title": "When The Sun Comes Down",
-        "artist": "Incognito",
-        "url": "https://www.youtube.com/watch?v=1HUmXrFfpHM",
-        "duration": 284,
-        "coverUrl": "https://source.unsplash.com/random/300x300/?incognito",
+        "title": "Get You",
+        "artist": "Daniel Caesar (feat. Kali Uchis)",
+        "url": "https://www.youtube.com/watch?v=WFLGrpGemLg",
+        "duration": 271,
+        "coverUrl": "https://img.youtube.com/vi/WFLGrpGemLg/0.jpg",
         "lyrics": ""
       },
       {
-        "title": "Disco Yes",
-        "artist": "Tom Misch & Poppy Ajudha",
-        "url": "https://www.youtube.com/watch?v=X4Q7d0rlj-U",
-        "duration": 277,
-        "coverUrl": "https://source.unsplash.com/random/300x300/?disco",
+        "title": "Give Me Mercy",
+        "artist": "The Weeknd",
+        "url": "https://www.youtube.com/watch?v=cVoO8ZYXkrQ",
+        "duration": 198,
+        "coverUrl": "https://img.youtube.com/vi/cVoO8ZYXkrQ/hqdefault.jpg",
         "lyrics": ""
       },
       {
-        "title": "Pictures Of You",
-        "artist": "PREP",
-        "url": "https://www.youtube.com/watch?v=4V4IEV8l9gM",
-        "duration": 234,
-        "coverUrl": "https://source.unsplash.com/random/300x300/?prep",
+        "title": "New Year",
+        "artist": "Mk.gee",
+        "url": "https://www.youtube.com/watch?v=iGQjD4gOzNM",
+        "duration": 214,
+        "coverUrl": "https://img.youtube.com/vi/iGQjD4gOzNM/hqdefault.jpg",
         "lyrics": ""
       },
       {
-        "title": "Isn't She Lovely",
-        "artist": "Tom Misch",
-        "url": "https://www.youtube.com/watch?v=ADFKGGBwIlg",
-        "duration": 193,
-        "coverUrl": "https://source.unsplash.com/random/300x300/?lovely",
+        "title": "Thinkin Bout You",
+        "artist": "Frank Ocean",
+        "url": "https://www.youtube.com/watch?v=6JHu3b-pbh8",
+        "duration": 200,
+        "coverUrl": "https://img.youtube.com/vi/6JHu3b-pbh8/hqdefault.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Let's go watch the stars",
+        "artist": "Jeok-Jae",
+        "url": "https://www.youtube.com/watch?v=Mz031oU0Xfw",
+        "duration": 242,
+        "coverUrl": "https://img.youtube.com/vi/Mz031oU0Xfw/hqdefault.jpg",
         "lyrics": ""
       }
     ]
