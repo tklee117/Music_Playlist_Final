@@ -1,0 +1,126 @@
+[
+  {
+    "id": "playlist1",
+    "title": "인기있는 팝송",
+    "coverUrl": "https://source.unsplash.com/random/300x300/?music,pop",
+    "songs": [
+      {
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "url": "https://www.youtube.com/watch?v=JGwWNGJdvx8",
+        "duration": 235,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?edsheeran",
+        "lyrics": "The club isn't the best place to find a lover\nSo the bar is where I go\nMe and my friends at the table doing shots\nDrinking fast and then we talk slow\nAnd you come over and start up a conversation with just me\nAnd trust me I'll give it a chance now..."
+      },
+      {
+        "title": "Someone Like You",
+        "artist": "Adele",
+        "url": "https://www.youtube.com/watch?v=hLQl3WQQoQ0",
+        "duration": 285,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?adele",
+        "lyrics": "I heard that you're settled down\nThat you found a girl and you're married now\nI heard that your dreams came true\nGuess she gave you things I didn't give to you..."
+      },
+      {
+        "title": "Bad Guy",
+        "artist": "Billie Eilish",
+        "url": "https://www.youtube.com/watch?v=DyDfgMOUjCI",
+        "duration": 194,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?billieeilish",
+        "lyrics": "White shirt now red, my bloody nose\nSleeping, you're on your tippy toes\nCreeping around like no one knows\nThink you're so criminal..."
+      }
+    ]
+  },
+  {
+    "id": "playlist2",
+    "title": "K-Pop 컬렉션",
+    "coverUrl": "https://source.unsplash.com/random/300x300/?music,kpop",
+    "songs": [
+      {
+        "title": "Dynamite",
+        "artist": "BTS",
+        "url": "https://www.youtube.com/watch?v=gdZLi9oWNZg",
+        "duration": 199,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?bts",
+        "lyrics": "Shoes on, get up in the morn'\nCup of milk, let's rock and roll\nKing Kong, kick the drum\nRolling on like a Rolling Stone..."
+      },
+      {
+        "title": "How You Like That",
+        "artist": "BLACKPINK",
+        "url": "https://www.youtube.com/watch?v=ioNng23DkIM",
+        "duration": 181,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?blackpink",
+        "lyrics": "보란 듯이 무너졌어\n바닥을 뚫고 저 지하까지\n옷 끝자락 잡겠다고\n저 높이 두 손을 뻗어봐도\n다시 캄캄한 이곳에 light up the sky\n네 두 눈엔 내가 빛나기를 항상 바라지..."
+      },
+      {
+        "title": "별 보러 가자",
+        "artist": "IU, 오혁",
+        "url": "https://www.youtube.com/watch?v=0FB2EoKTK_Q",
+        "duration": 237,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?IU",
+        "lyrics": "아무도 없는 길에\n너와 함께 걷고 있다\n우리 둘만의 길\n아무도 모르는 길\n\n저기 봐\n우리들만의 별 하나 떴다\n한참을 올려다봐도\n늘 그대론데 더 빛나 보이네\n너의 웃음소리에 더욱더..."
+      }
+    ]
+  },
+  {
+    "id": "playlist3",
+    "title": "클래식 명곡",
+    "coverUrl": "https://source.unsplash.com/random/300x300/?music,classical",
+    "songs": [
+      {
+        "title": "Moonlight Sonata",
+        "artist": "Ludwig van Beethoven",
+        "url": "https://www.youtube.com/watch?v=4Tr0otuiQuU",
+        "duration": 384,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?beethoven",
+        "lyrics": ""
+      },
+      {
+        "title": "Clair de Lune",
+        "artist": "Claude Debussy",
+        "url": "https://www.youtube.com/watch?v=CvFH_6DNRCY",
+        "duration": 302,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?debussy",
+        "lyrics": ""
+      },
+      {
+        "title": "Air on the G String",
+        "artist": "Johann Sebastian Bach",
+        "url": "https://www.youtube.com/watch?v=GMkmQlfOJDk",
+        "duration": 293,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?bach",
+        "lyrics": ""
+      }
+    ]
+  },
+  {
+    "id": "playlist4",
+    "title": "감성 발라드",
+    "coverUrl": "https://source.unsplash.com/random/300x300/?music,ballad",
+    "songs": [
+      {
+        "title": "사랑이 식었다고 말해도 돼",
+        "artist": "먼데이 키즈",
+        "url": "https://www.youtube.com/watch?v=3J8hcdXoTIg",
+        "duration": 250,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?ballad",
+        "lyrics": "네 모습이 늘 좋아서\n난 아무런 말 못하고\n너의 작은 슬픔에도\n마음이 아팠는데\n뒤돌아서 걷는 널 보며\n그냥 달려가\n꼭 껴안고 싶었는데..."
+      },
+      {
+        "title": "에잇",
+        "artist": "아이유",
+        "url": "https://www.youtube.com/watch?v=TgOu00Mf3kI",
+        "duration": 254,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?IU",
+        "lyrics": "So are you happy now\n네가 밉지만\n네가 나를 울린 만큼\n내가 더 잘 살아 보이고는 싶어..."
+      },
+      {
+        "title": "눈사람",
+        "artist": "정승환",
+        "url": "https://www.youtube.com/watch?v=Bj_G-lYlLSo",
+        "duration": 257,
+        "coverUrl": "https://source.unsplash.com/random/300x300/?snow",
+        "lyrics": "겨울이 와 안녕\n차갑게 불어오는 바람처럼\n내게 와 니가 안겨\n작은 온기 내게 내어주고..."
+      }
+    ]
+  }
+] 
