@@ -2,14 +2,14 @@
   {
     "id": "playlist1",
     "title": "너를 위한 노래들 ~ :)",
-    "coverUrl": "https://www.wilderness.org/sites/default/files/styles/1000x755/public/media/image/AZ_VermillionCliffs_NM_ZachBright_R_180726_01_1.jpg?h=78aab1d8&itok=u8P0I3gO",
+    "coverUrl": "https://i.pinimg.com/736x/38/c2/bb/38c2bb1ed07e9bcda59c875d5006b37d.jpg",
     "songs": [
       {
         "title": "My shadow",
         "artist": "The Black Skirts",
         "url": "https://www.youtube.com/watch?v=T15zuMtqBoE",
         "duration": 237,
-        "coverUrl": "https://img.youtube.com/vi/T15zuMtqBoE/hqdefault.jpg",
+        "coverUrl": "https://i.pinimg.com/736x/c9/4a/55/c94a5500a7f70330f9b5405e95beb59e.jpg",
         "lyrics": ""
       },
       {
@@ -17,7 +17,7 @@
         "artist": "Kendrick Lamar (feat. SZA)",
         "url": "https://www.youtube.com/watch?v=HfWLgELllZs",
         "duration": 251,
-        "coverUrl": "https://img.youtube.com/vi/HfWLgELllZs/hqdefault.jpg",
+        "coverUrl": "https://i.pinimg.com/736x/2d/02/d0/2d02d0954c6441a43975e486ba5ca8e5.jpg",
         "lyrics": ""
       },
       {
@@ -25,7 +25,7 @@
         "artist": "Daniel Caesar (feat. Kali Uchis)",
         "url": "https://youtu.be/xyUQKDE57Ag",
         "duration": 271,
-        "coverUrl": "https://img.youtube.com/vi/WFLGrpGemLg/0.jpg",
+        "coverUrl": "https://i.pinimg.com/736x/e3/ea/bb/e3eabb3686737fe1e92ad5cb0a26ba22.jpg",
         "lyrics": ""
       },
       {
@@ -33,7 +33,7 @@
         "artist": "The Weeknd",
         "url": "https://www.youtube.com/watch?v=cVoO8ZYXkrQ",
         "duration": 198,
-        "coverUrl": "https://img.youtube.com/vi/cVoO8ZYXkrQ/hqdefault.jpg",
+        "coverUrl": "https://i.pinimg.com/736x/18/d2/02/18d2024056bf31251ac9cd61c0a7abc3.jpg",
         "lyrics": ""
       },
       {
@@ -41,7 +41,7 @@
         "artist": "Mk.gee",
         "url": "https://www.youtube.com/watch?v=iGQjD4gOzNM",
         "duration": 214,
-        "coverUrl": "https://img.youtube.com/vi/iGQjD4gOzNM/hqdefault.jpg",
+        "coverUrl": "https://i.pinimg.com/736x/8f/38/37/8f3837b43b84466632b750ceabb020ed.jpg",
         "lyrics": ""
       },
       {
@@ -49,7 +49,7 @@
         "artist": "Frank Ocean",
         "url": "https://www.youtube.com/watch?v=6JHu3b-pbh8",
         "duration": 200,
-        "coverUrl": "https://img.youtube.com/vi/6JHu3b-pbh8/hqdefault.jpg",
+        "coverUrl": "https://i.pinimg.com/736x/cf/d8/83/cfd88399b71a5fe08589d248ebc1c351.jpg",
         "lyrics": ""
       },
       {
@@ -57,7 +57,7 @@
         "artist": "Jeok-Jae",
         "url": "https://www.youtube.com/watch?v=Mz031oU0Xfw",
         "duration": 242,
-        "coverUrl": "https://img.youtube.com/vi/Mz031oU0Xfw/hqdefault.jpg",
+        "coverUrl": "https://i.pinimg.com/736x/bd/65/d5/bd65d54d9a0028d6868c369536b1911a.jpg",
         "lyrics": ""
       }
     ]
