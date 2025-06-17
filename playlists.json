@@ -293,24 +293,24 @@
     ]
   },
     {
-    "id": "playlist3",
-    "title": "서로 문자 한 통 없다는 이야기는, 정말 잘 지내고 있다는 뜻이겠죠",
-    "coverUrl": "https://i.pinimg.com/736x/70/d4/6f/70d46fb304a41c5e5ca7ad2c7016976f.jpg",
+    "id": "playlist4",
+    "title": "Let's go on a trip to the beach",
+    "coverUrl": "https://i.pinimg.com/736x/65/c0/2f/65c02f7068dd4ffaea3366996879990d.jpg",
     "songs": [
       {
-        "title": "가까운 듯 먼 그대여",
-        "artist": "카더가든 (Car, the garden)",
-        "url": "https://youtu.be/CAxPgfOqtr8",
-        "duration": 314,
-        "coverUrl": "https://i.pinimg.com/736x/f6/10/9c/f6109c13e2d91ef8b8389b5be92fe5ea.jpg",
+        "title": "여행",
+        "artist": "BOL4(볼빨간사춘기)",
+        "url": "https://www.youtube.com/watch?v=g6U2SS-ZMy8",
+        "duration": 341,
+        "coverUrl": "https://i.pinimg.com/736x/bb/aa/81/bbaa8163f2465dc15eda0567c149389e.jpg",
         "lyrics": ""
       },
       {
-        "title": "나의 기쁨 나의 노래(intro)",
-        "artist": "잔나비",
-        "url": "https://youtu.be/nkyRnKXUflI",
-        "duration": 336,
-        "coverUrl": "https://i.pinimg.com/736x/42/07/f0/4207f0c4f7afc5610ddf05aba4bd1283.jpg",
+        "title": "Electricity",
+        "artist": "Silk City, Dua Lipa",
+        "url": "https://youtu.be/XJcU-iKqQxY",
+        "duration": 355,
+        "coverUrl": "https://i.pinimg.com/736x/8a/c2/e2/8ac2e2a94bce29e8d451fada96281390.jpg",
         "lyrics": ""
       },
       {
