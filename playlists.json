@@ -418,5 +418,132 @@
         "lyrics": ""
       }
     ]
+  },
+  {
+    "id": "playlist5",
+    "title": "Let's go on a trip to the beach",
+    "coverUrl": "https://i.pinimg.com/736x/65/c0/2f/65c02f7068dd4ffaea3366996879990d.jpg",
+    "songs": [
+      {
+        "title": "여행",
+        "artist": "BOL4(볼빨간사춘기)",
+        "url": "https://www.youtube.com/watch?v=g6U2SS-ZMy8",
+        "duration": 341,
+        "coverUrl": "https://i.pinimg.com/736x/bb/aa/81/bbaa8163f2465dc15eda0567c149389e.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Electricity",
+        "artist": "Silk City, Dua Lipa",
+        "url": "https://youtu.be/XJcU-iKqQxY",
+        "duration": 355,
+        "coverUrl": "https://i.pinimg.com/736x/8a/c2/e2/8ac2e2a94bce29e8d451fada96281390.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Sum",
+        "artist": "BLU-SWING",
+        "url": "https://youtu.be/1_G-D-YcxbE",
+        "duration": 427,
+        "coverUrl": "https://i.pinimg.com/736x/8a/4f/fc/8a4ffc874abc4ec582dafcd4ec62aad2.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Intimidated",
+        "artist": "KAYTRANADA (ft. H.E.R.)",
+        "url": "https://youtu.be/MK9hxakQMN8",
+        "duration": 331,
+        "coverUrl": "https://i.pinimg.com/736x/e1/a4/b8/e1a4b8f7851bdee4e625d373d1c79388.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Latch",
+        "artist": "Disclosure (ft. Sam Smith)",
+        "url": "https://youtu.be/93ASUImTedo",
+        "duration": 416,
+        "coverUrl": "https://i.pinimg.com/736x/f4/80/ad/f480ad7d286f549acc5daf2a21daaa79.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Add Up My Love",
+        "artist": "Clairo",
+        "url": "https://youtu.be/hLrGvkul3_k",
+        "duration": 325,
+        "coverUrl": "https://i.pinimg.com/736x/e3/8a/cc/e38acc95b23a6dca3caf1e243bc8966e.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "FAMJAM4000",
+        "artist": "Jordan Ward",
+        "url": "https://youtu.be/hWpv5-yQ5Xk",
+        "duration": 238,
+        "coverUrl": "https://i.pinimg.com/736x/c4/cd/fe/c4cdfee14de98b08dc0dca531786743c.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Indecision",
+        "artist": "Sampha",
+        "url": "https://youtu.be/FF8okFt4bGg",
+        "duration": 428,
+        "coverUrl": "https://i.pinimg.com/736x/64/e0/00/64e000a7f471379683488b5d3ac80b13.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "GOT IT GOOD",
+        "artist": "KAYTRANADA",
+        "url": "https://youtu.be/bAX9envvbj4",
+        "duration": 348,
+        "coverUrl": "https://i.pinimg.com/736x/5b/dd/8d/5bdd8d06644bdfa48935d783327f4d97.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "drive ME crazy!",
+        "artist": "Lil Yachty",
+        "url": "https://youtu.be/dGgBzSfgVsA",
+        "duration": 349,
+        "coverUrl": "https://i.pinimg.com/736x/e4/da/5d/e4da5d65faa049ef5d178e74460686d5.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "No Excuses",
+        "artist": "Childish Gambino (ft. Ludwig Göransson, Kamasi Washington)",
+        "url": "https://youtu.be/LLi3upUJDYQ",
+        "duration": 723,
+        "coverUrl": "https://i.pinimg.com/736x/6f/7a/12/6f7a12bc14d2ec40c261144059fec9f9.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "I Like You",
+        "artist": "GongGongGoo009",
+        "url": "https://youtu.be/xrjz2sVsiMI",
+        "duration": 416,
+        "coverUrl": "https://i.pinimg.com/736x/e7/c7/63/e7c7636b0b39eeb9bdd9e4c13b340f34.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Brick",
+        "artist": "Mkgee",
+        "url": "https://youtu.be/XymWqWnjb1o",
+        "duration": 344,
+        "coverUrl": "https://i.pinimg.com/736x/68/15/06/681506b6c6fa97c66abf06a1059a07e3.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "산책",
+        "artist": "GongGongGoo009",
+        "url": "https://youtu.be/FJCBz2KP7x4",
+        "duration": 344,
+        "coverUrl": "https://i.pinimg.com/736x/92/d7/45/92d74539d48ffe54bb812506278d7835.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Godspeed",
+        "artist": "Frank Ocean",
+        "url": "https://youtu.be/P18g4rKns6Q",
+        "duration": 257,
+        "coverUrl": "https://i.pinimg.com/736x/6d/08/ad/6d08ad7f5fabca35277299c88ddaac1c.jpg",
+        "lyrics": ""
+      }
+    ]
   }
 ]
