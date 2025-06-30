@@ -425,35 +425,35 @@
     "coverUrl": "https://i.pinimg.com/736x/7c/56/5e/7c565ef4dc8832108de9688c6549ee69.jpg",
     "songs": [
       {
+        "title": "Nights",
+        "artist": "Frank Ocean",
+        "url": "https://youtu.be/r4l9bFqgMaQ",
+        "duration": 507,
+        "coverUrl": "https://i.pinimg.com/736x/62/e2/6b/62e26b56fe13b0e77e8aeab7114b439b.jpg",
+        "lyrics": ""
+      },
+      {
         "title": "Suspended",
         "artist": "Sampha",
         "url": "https://youtu.be/3SlvAyvmEE8",
         "duration": 305,
-        "coverUrl": "https://i.pinimg.com/736x/67/3f/ef/673fef6ea954d579362e97fb06cfd365.jpg",
+        "coverUrl": "https://i.pinimg.com/736x/4c/a1/3b/4ca13bf3f89111110506871f7f794e8f.jpg",
         "lyrics": ""
       },
       {
-        "title": "Electricity",
-        "artist": "Silk City, Dua Lipa",
-        "url": "https://youtu.be/XJcU-iKqQxY",
-        "duration": 355,
-        "coverUrl": "https://i.pinimg.com/736x/8a/c2/e2/8ac2e2a94bce29e8d451fada96281390.jpg",
+        "title": "I Feel It Coming",
+        "artist": "The Weeknd",
+        "url": "https://youtu.be/iIWoYaJRryw",
+        "duration": 429,
+        "coverUrl": "https://i.pinimg.com/736x/ac/95/24/ac9524f868e50bf6aa10ddb2341cdf14.jpg",
         "lyrics": ""
       },
       {
-        "title": "Sum",
-        "artist": "BLU-SWING",
-        "url": "https://youtu.be/1_G-D-YcxbE",
-        "duration": 427,
-        "coverUrl": "https://i.pinimg.com/736x/8a/4f/fc/8a4ffc874abc4ec582dafcd4ec62aad2.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "Intimidated",
-        "artist": "KAYTRANADA (ft. H.E.R.)",
-        "url": "https://youtu.be/MK9hxakQMN8",
-        "duration": 331,
-        "coverUrl": "https://i.pinimg.com/736x/e1/a4/b8/e1a4b8f7851bdee4e625d373d1c79388.jpg",
+        "title": "Guilty Conscience",
+        "artist": "070 Shake",
+        "url": "https://youtu.be/82vcISfOHBY",
+        "duration": 334,
+        "coverUrl": "https://i.pinimg.com/736x/5e/39/27/5e3927c63601a46fed04453223e9edbc.jpg",
         "lyrics": ""
       },
       {
