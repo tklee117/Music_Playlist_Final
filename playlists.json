@@ -537,5 +537,124 @@
         "lyrics": ""
       }
     ]
+  },
+  {
+    "id": "playlist6",
+    "title": "밤에 드라이브할 때 이런 노래가 흘러나오겠지",
+    "coverUrl": "https://i.pinimg.com/736x/7c/56/5e/7c565ef4dc8832108de9688c6549ee69.jpg",
+    "songs": [
+      {
+        "title": "Nights",
+        "artist": "Frank Ocean",
+        "url": "https://youtu.be/r4l9bFqgMaQ",
+        "duration": 507,
+        "coverUrl": "https://i.pinimg.com/736x/62/e2/6b/62e26b56fe13b0e77e8aeab7114b439b.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Suspended",
+        "artist": "Sampha",
+        "url": "https://youtu.be/3SlvAyvmEE8",
+        "duration": 305,
+        "coverUrl": "https://i.pinimg.com/736x/4c/a1/3b/4ca13bf3f89111110506871f7f794e8f.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "I Feel It Coming",
+        "artist": "The Weeknd",
+        "url": "https://youtu.be/iIWoYaJRryw",
+        "duration": 429,
+        "coverUrl": "https://i.pinimg.com/736x/ac/95/24/ac9524f868e50bf6aa10ddb2341cdf14.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Guilty Conscience",
+        "artist": "070 Shake",
+        "url": "https://youtu.be/82vcISfOHBY",
+        "duration": 334,
+        "coverUrl": "https://i.pinimg.com/736x/5e/39/27/5e3927c63601a46fed04453223e9edbc.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "ghostin",
+        "artist": "Ariana Grande",
+        "url": "https://youtu.be/Z1pmpDRrQhU",
+        "duration": 432,
+        "coverUrl": "https://i.pinimg.com/736x/7c/3f/af/7c3faf9d8b59d55b7b8fedef87db2b13.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "I Can't Wait To Get There",
+        "artist": "The Weeknd",
+        "url": "https://youtu.be/l8-rIurGwAE",
+        "duration": 309,
+        "coverUrl": "https://i.pinimg.com/736x/d8/58/8d/d8588d0124774ec5bb5c42ca5b0b23c6.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Fallen",
+        "artist": "Jayden Smith",
+        "url": "https://youtu.be/W6PUTaC9IdI",
+        "duration": 422,
+        "coverUrl": "https://i.pinimg.com/736x/ec/4d/29/ec4d29092680697196ae9898e28134d4.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Show U Off",
+        "artist": "Brent Faiyaz",
+        "url": "https://youtu.be/SoigUWeZeeM",
+        "duration": 411,
+        "coverUrl": "https://i.pinimg.com/736x/1b/e2/5f/1be25fa6b042fe0858a379a11036cdeb.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Floating",
+        "artist": "Mac Miller",
+        "url": "https://youtu.be/PUPYXQmQ8m8",
+        "duration": 416,
+        "coverUrl": "https://i.pinimg.com/736x/a8/e8/0a/a8e80a3a65257f903418bcf821c0ebdb.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Nangs",
+        "artist": "Tame Impala",
+        "url": "https://youtu.be/c3yEjD_oijw",
+        "duration": 148,
+        "coverUrl": "https://i.pinimg.com/736x/6b/16/96/6b169624ec7f6e7efafad5a6ea872f8f.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "PARTY 4 U",
+        "artist": "Charli XCX",
+        "url": "https://youtu.be/tmiMR5x30HI",
+        "duration": 457,
+        "coverUrl": "https://i.pinimg.com/736x/01/4f/d3/014fd39d94fccee775a8b36005659f2b.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Die Hard",
+        "artist": "Kendrick Lamar ft. Blxst & Amanda Reifer",
+        "url": "https://youtu.be/Lx3MGrafykU",
+        "duration": 359,
+        "coverUrl": "https://i.pinimg.com/736x/b0/56/aa/b056aa54eaba46b5c638f39175098799.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "running out of time",
+        "artist": "Lil Yachty",
+        "url": "https://youtu.be/eQRyZE2r7oM",
+        "duration": 429,
+        "coverUrl": "https://i.pinimg.com/736x/37/9e/3e/379e3e441c0d150c942cbd59bf6e1df5.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Pure Imagination",
+        "artist": "Timothée Chalamet",
+        "url": "https://youtu.be/b4wHnf9VTRk",
+        "duration": 310,
+        "coverUrl": "https://i.pinimg.com/736x/67/7a/75/677a7535ea1e1d554121165cd7a5bd1b.jpg",
+        "lyrics": ""
+      }
+    ]
   }
 ]
