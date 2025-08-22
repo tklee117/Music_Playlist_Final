@@ -646,7 +646,46 @@
     "title": "해바라기 향이 나는 사람들 찾아 모험을 떠날거야",
     "coverUrl": "https://i.pinimg.com/1200x/2f/97/bb/2f97bbd23c99ff62157d41fa165a95b4.jpg",
     "songs": [
-      
+      {
+        "title": "just forget",
+        "artist": "Force of nature",
+        "url": "https://youtu.be/YeS3PDfUeqM",
+        "duration": 355,
+        "coverUrl": "https://i.pinimg.com/1200x/a6/1c/db/a61cdba4af7acede93dfb75ae4b62608.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "tsurugi no mai",
+        "artist": "Nujabes",
+        "url": "https://youtu.be/m2E6s5TaO5A",
+        "duration": 326,
+        "coverUrl": "https://i.pinimg.com/1200x/cd/50/6c/cd506c06213403c02a27f9e49bd24946.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "aruarian dance",
+        "artist": "Nujabes",
+        "url": "https://youtu.be/qYcoJpqCha4",
+        "duration": 410,
+        "coverUrl": "https://i.pinimg.com/1200x/1c/6a/98/1c6a98f454134ede799d40cac6f0181d.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "the space between two world",
+        "artist": "Nujabes",
+        "url": "https://youtu.be/vnFb1ewtvHI",
+        "duration": 441,
+        "coverUrl": "https://i.pinimg.com/1200x/13/b3/d7/13b3d71c823bba5574e206d470bf25ee.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Counting Stars",
+        "artist": "Nujabes",
+        "url": "https://youtu.be/JQhjXXJpjlk",
+        "duration": 407,
+        "coverUrl": "https://i.pinimg.com/1200x/3b/c8/13/3bc813d5f3812a71d782ea756f997842.jpg",
+        "lyrics": ""
+      }
     ]
   }
 ]
