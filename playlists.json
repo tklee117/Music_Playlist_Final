@@ -644,7 +644,7 @@
   {
     "id": "playlist7",
     "title": "해바라기 향이 나는 사람들 찾아 모험을 떠날거야",
-    "coverUrl": "https://i.pinimg.com/1200x/2f/97/bb/2f97bbd23c99ff62157d41fa165a95b4.jpg",
+    "coverUrl": "https://i.pinimg.com/736x/f1/82/2c/f1822cf3bf3d4bb5f42d3cf45e7e4045.jpg",
     "songs": [
       {
         "title": "just forget",
@@ -687,6 +687,14 @@
         "lyrics": ""
       },
       {
+        "title": "mystline",
+        "artist": "Nujabes",
+        "url": "https://youtu.be/Sww2K8e4Kdk",
+        "duration": 450,
+        "coverUrl": "https://i.pinimg.com/736x/7c/02/56/7c02560d0d0e47794d1cfe562a6414ec.jpg",
+        "lyrics": ""
+      },
+      {
         "title": "transcendence",
         "artist": "Nujabes",
         "url": "https://youtu.be/TuKveXAklI4",
@@ -699,7 +707,7 @@
         "artist": "Nujabes",
         "url": "https://youtu.be/iNa4KjZrhOo",
         "duration": 446,
-        "coverUrl": "https://i.pinimg.com/736x/f1/82/2c/f1822cf3bf3d4bb5f42d3cf45e7e4045.jpg",
+        "coverUrl": "https://i.pinimg.com/1200x/2f/97/bb/2f97bbd23c99ff62157d41fa165a95b4.jpg",
         "lyrics": ""
       },
       {
