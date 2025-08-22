@@ -1,158 +1,436 @@
 [
   {
-    "id": "playlist1",
-    "title": "너를 위한 노래들 ~ :)",
-    "coverUrl": "https://i.pinimg.com/736x/38/c2/bb/38c2bb1ed07e9bcda59c875d5006b37d.jpg",
+    "id": "playlist7",
+    "title": "해바라기 향이 나는 사람들 찾아 모험을 떠날거야",
+    "coverUrl": "https://i.pinimg.com/736x/f1/82/2c/f1822cf3bf3d4bb5f42d3cf45e7e4045.jpg",
     "songs": [
       {
-        "title": "My shadow",
-        "artist": "The Black Skirts",
-        "url": "https://www.youtube.com/watch?v=T15zuMtqBoE",
-        "duration": 237,
-        "coverUrl": "https://i.pinimg.com/736x/c9/4a/55/c94a5500a7f70330f9b5405e95beb59e.jpg",
+        "title": "just forget",
+        "artist": "Force of nature",
+        "url": "https://youtu.be/YeS3PDfUeqM",
+        "duration": 355,
+        "coverUrl": "https://i.pinimg.com/1200x/a6/1c/db/a61cdba4af7acede93dfb75ae4b62608.jpg",
         "lyrics": ""
       },
       {
-        "title": "Luther",
-        "artist": "Kendrick Lamar (feat. SZA)",
-        "url": "https://www.youtube.com/watch?v=HfWLgELllZs",
-        "duration": 251,
-        "coverUrl": "https://i.pinimg.com/736x/2d/02/d0/2d02d0954c6441a43975e486ba5ca8e5.jpg",
+        "title": "tsurugi no mai",
+        "artist": "Nujabes",
+        "url": "https://youtu.be/m2E6s5TaO5A",
+        "duration": 326,
+        "coverUrl": "https://i.pinimg.com/1200x/cd/50/6c/cd506c06213403c02a27f9e49bd24946.jpg",
         "lyrics": ""
       },
       {
-        "title": "Get You",
-        "artist": "Daniel Caesar (feat. Kali Uchis)",
-        "url": "https://youtu.be/xyUQKDE57Ag",
-        "duration": 271,
-        "coverUrl": "https://i.pinimg.com/736x/e3/ea/bb/e3eabb3686737fe1e92ad5cb0a26ba22.jpg",
+        "title": "aruarian dance",
+        "artist": "Nujabes",
+        "url": "https://youtu.be/qYcoJpqCha4",
+        "duration": 410,
+        "coverUrl": "https://i.pinimg.com/1200x/1c/6a/98/1c6a98f454134ede799d40cac6f0181d.jpg",
         "lyrics": ""
       },
       {
-        "title": "Give Me Mercy",
-        "artist": "The Weeknd",
-        "url": "https://www.youtube.com/watch?v=cVoO8ZYXkrQ",
-        "duration": 198,
-        "coverUrl": "https://i.pinimg.com/736x/18/d2/02/18d2024056bf31251ac9cd61c0a7abc3.jpg",
+        "title": "the space between two world",
+        "artist": "Nujabes",
+        "url": "https://youtu.be/LaclhJaybFo",
+        "duration": 441,
+        "coverUrl": "https://i.pinimg.com/1200x/13/b3/d7/13b3d71c823bba5574e206d470bf25ee.jpg",
         "lyrics": ""
       },
       {
-        "title": "New Year",
-        "artist": "Mk.gee",
-        "url": "https://www.youtube.com/watch?v=iGQjD4gOzNM",
-        "duration": 214,
-        "coverUrl": "https://i.pinimg.com/736x/8f/38/37/8f3837b43b84466632b750ceabb020ed.jpg",
+        "title": "Counting Stars",
+        "artist": "Nujabes",
+        "url": "https://youtu.be/JQhjXXJpjlk",
+        "duration": 407,
+        "coverUrl": "https://i.pinimg.com/1200x/3b/c8/13/3bc813d5f3812a71d782ea756f997842.jpg",
         "lyrics": ""
       },
       {
-        "title": "Thinkin Bout You",
-        "artist": "Frank Ocean",
-        "url": "https://www.youtube.com/watch?v=6JHu3b-pbh8",
-        "duration": 200,
-        "coverUrl": "https://i.pinimg.com/736x/cf/d8/83/cfd88399b71a5fe08589d248ebc1c351.jpg",
+        "title": "mystline",
+        "artist": "Nujabes",
+        "url": "https://youtu.be/Sww2K8e4Kdk",
+        "duration": 450,
+        "coverUrl": "https://i.pinimg.com/736x/7c/02/56/7c02560d0d0e47794d1cfe562a6414ec.jpg",
         "lyrics": ""
       },
       {
-        "title": "Let's go watch the stars",
-        "artist": "Jeok-Jae",
-        "url": "https://www.youtube.com/watch?v=Mz031oU0Xfw",
-        "duration": 242,
-        "coverUrl": "https://i.pinimg.com/736x/bd/65/d5/bd65d54d9a0028d6868c369536b1911a.jpg",
+        "title": "transcendence",
+        "artist": "Nujabes",
+        "url": "https://youtu.be/TuKveXAklI4",
+        "duration": 701,
+        "coverUrl": "https://i.pinimg.com/736x/eb/c0/51/ebc05122a71265eebeba5c67c049e1ba.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Luv (sic)",
+        "artist": "Nujabes",
+        "url": "https://youtu.be/iNa4KjZrhOo",
+        "duration": 446,
+        "coverUrl": "https://i.pinimg.com/1200x/2f/97/bb/2f97bbd23c99ff62157d41fa165a95b4.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "flowers",
+        "artist": "Nujabes",
+        "url": "https://youtu.be/JG_6yh-nIaE",
+        "duration": 359,
+        "coverUrl": "https://i.pinimg.com/736x/2e/c7/58/2ec758f10fddbbf8b21edcc69cfe29fa.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Same Ol' Thing",
+        "artist": "FORCE OF NATURE",
+        "url": "https://youtu.be/cTN6WeO0oIs",
+        "duration": 527,
+        "coverUrl": "https://i.pinimg.com/736x/b3/e2/3d/b3e23dc6888c52707b2e777134934954.jpg",
         "lyrics": ""
       }
     ]
   },
   {
-    "id": "playlist2",
-    "title": "이 겨울이 지나고 봄날이 오면 우리 만날 수 있을까요",
-    "coverUrl": "https://i.pinimg.com/736x/8b/5e/8b/8b5e8b30a46e23199c8cbf740cc6e428.jpg",
+    "id": "playlist6",
+    "title": "유독 당신이 곁에 없는 이 밤이 너무 외롭습니다",
+    "coverUrl": "https://i.pinimg.com/736x/90/56/00/905600d3e1c77621ee6ec2e892bbe2f6.jpg",
     "songs": [
       {
-        "title": "조금만 외로우면 널 사랑할 수 있어",
-        "artist": "문빛",
-        "url": "https://youtu.be/LVU0QIdWNO4",
-        "duration": 174,
-        "coverUrl": "https://i.pinimg.com/736x/cb/e5/4f/cbe54f2102cc320ca932565e0d105d26.jpg",
+        "title": "Merry Christmas Mr. Lawrence",
+        "artist": "Ryuichi Sakamoto",
+        "url": "https://youtu.be/z9tECKZ60zk",
+        "duration": 552,
+        "coverUrl": "https://i.pinimg.com/1200x/14/94/0f/14940ff83152ac42e8044f321c51a627.jpg",
         "lyrics": ""
       },
       {
-        "title": "사랑일까 (with 조소정)",
-        "artist": "홍기은",
-        "url": "https://youtu.be/pSSCdq1Byws",
-        "duration": 246,
-        "coverUrl": "https://i.pinimg.com/736x/b5/7d/1f/b57d1f9c7a99ca0f488755e6ece2570d.jpg",
+        "title": "사계 四季 Shiki",
+        "artist": "Taeko Onuki & Ryuichi Sakamoto",
+        "url": "https://youtu.be/dgvBHhGTE9k",
+        "duration": 443,
+        "coverUrl": "https://i.pinimg.com/736x/b3/fc/0c/b3fc0c97a367d40b2837e002d27aa49f.jpg",
         "lyrics": ""
       },
       {
-        "title": "유영",
-        "artist": "조소정",
-        "url": "https://youtu.be/YAjpRqKOh1Q",
-        "duration": 225,
-        "coverUrl": "https://i.pinimg.com/736x/be/3c/1a/be3c1a09344c74e4a211652cdd5aebe5.jpg",
+        "title": "Shining Boy & Little Randy",
+        "artist": "Ryuichi Sakamoto",
+        "url": "https://youtu.be/AXWbVq37Wks",
+        "duration": 548,
+        "coverUrl": "https://i.pinimg.com/736x/0d/0d/fa/0d0dfa7de6816618f700b21b002d0176.jpg",
         "lyrics": ""
       },
       {
-        "title": "바닷가",
-        "artist": "다린",
-        "url": "https://youtu.be/FUwC7tsryO4",
+        "title": "Bibo no Aozora",
+        "artist": "Taeko Onuki & Ryuichi Sakamoto",
+        "url": "https://youtu.be/vnFb1ewtvHI",
+        "duration": 505,
+        "coverUrl": "https://i.pinimg.com/736x/a8/71/cd/a871cd20d84094f84eff188dbbdbdb75.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "MUJI2020",
+        "artist": "Ryuichi Sakamoto",
+        "url": "https://youtu.be/XqUYrDjrmpc",
+        "duration": 214,
+        "coverUrl": "https://i.pinimg.com/736x/dc/e8/c8/dce8c89c00f0f0d65b886eeef0a49e49.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Aka Tombo",
+        "artist": "Taeko Onuki & Ryuichi Sakamoto",
+        "url": "https://youtu.be/bJ99xEM0o64",
+        "duration": 307,
+        "coverUrl": "https://i.pinimg.com/1200x/6a/65/84/6a6584ac1f99da8485d5c00ec1222127.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Mizu no Naka no Bagatelle",
+        "artist": "Ryuichi Sakamoto",
+        "url": "https://youtu.be/gxXZilNApTg",
+        "duration": 345,
+        "coverUrl": "https://i.pinimg.com/1200x/cc/ca/ec/cccaeca60f7c5db94bb382800f72a666.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Minamata Piano Theme",
+        "artist": "Ryuichi Sakamoto",
+        "url": "https://youtu.be/l0E_oYBX-uY",
+        "duration": 251,
+        "coverUrl": "https://i.pinimg.com/736x/95/9c/f3/959cf3f1cede415a412612081c4db69e.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Opus - ending",
+        "artist": "Ryuichi Sakamoto",
+        "url": "https://youtu.be/7WZMUn_OTL8",
         "duration": 304,
-        "coverUrl": "https://i.pinimg.com/736x/46/ad/f6/46adf6929a8d803a810d1562d42b26e9.jpg",
+        "coverUrl": "https://i.pinimg.com/736x/0c/b1/85/0cb185df5a2e57da5b7c5805215665b2.jpg",
         "lyrics": ""
       },
       {
-        "title": "나랑 도망가자",
-        "artist": "밍기뉴",
-        "url": "https://youtu.be/zwYhHynBdJ0",
-        "duration": 113,
-        "coverUrl": "https://i.pinimg.com/736x/e9/83/59/e983590927ca40bc687946286020f333.jpg",
+        "title": "Flower",
+        "artist": "Taeko Onuki & Ryuichi Sakamoto",
+        "url": "https://youtu.be/I14ejAHJwJI",
+        "duration": 510,
+        "coverUrl": "https://i.pinimg.com/1200x/75/44/54/754454e9eddfe69eb71b83eb3d63de74.jpg",
         "lyrics": ""
       },
       {
-        "title": "뭇별",
-        "artist": "신지훈",
-        "url": "https://youtu.be/hWUAFe5RB2k",
-        "duration": 233,
-        "coverUrl": "https://i.pinimg.com/736x/98/86/60/988660eaa9acd4fcd3e04541a7916141.jpg",
+        "title": "A Flower is not a Flower",
+        "artist": "Ryuichi Sakamoto",
+        "url": "https://youtu.be/99-dvtlgMSs",
+        "duration": 634,
+        "coverUrl": "https://i.pinimg.com/736x/81/dc/bc/81dcbc1466e02eeadc5052299c4f5dca.jpg",
         "lyrics": ""
       },
       {
-        "title": "나랑 아니면",
-        "artist": "검정치마",
-        "url": "https://youtu.be/8fTjSldjtsA",
-        "duration": 271,
-        "coverUrl": "https://i.pinimg.com/736x/7a/db/d1/7adbd11a0088183da1ad4703bc8dc0df.jpg",
+        "title": "24",
+        "artist": "Kanye West ft Sunday Service & kayCyy ",
+        "url": "https://youtu.be/1ZruyLyauWc",
+        "duration": 454,
+        "coverUrl": "https://i.pinimg.com/736x/c0/84/db/c084dbf104bbf5747b0cdf672264aed2.jpg",
+        "lyrics": ""
+      }
+    ]
+  },
+  {
+    "id": "playlist5",
+    "title": "밤에 드라이브할 때 이런 노래가 흘러나오겠지",
+    "coverUrl": "https://i.pinimg.com/736x/7c/56/5e/7c565ef4dc8832108de9688c6549ee69.jpg",
+    "songs": [
+      {
+        "title": "Nights",
+        "artist": "Frank Ocean",
+        "url": "https://youtu.be/r4l9bFqgMaQ",
+        "duration": 507,
+        "coverUrl": "https://i.pinimg.com/736x/62/e2/6b/62e26b56fe13b0e77e8aeab7114b439b.jpg",
         "lyrics": ""
       },
       {
-        "title": "I KNOW",
-        "artist": "이제",
-        "url": "https://youtu.be/belrYAfAGyw",
-        "duration": 201,
-        "coverUrl": "https://i.pinimg.com/736x/a4/22/25/a422258f7e9800b3c3e15231e4ab1db7.jpg",
+        "title": "Suspended",
+        "artist": "Sampha",
+        "url": "https://youtu.be/3SlvAyvmEE8",
+        "duration": 305,
+        "coverUrl": "https://i.pinimg.com/736x/4c/a1/3b/4ca13bf3f89111110506871f7f794e8f.jpg",
         "lyrics": ""
       },
       {
-        "title": "내일도 날 사랑해줄건가요",
-        "artist": "정우",
-        "url": "https://youtu.be/CUtqa7V5mN0",
-        "duration": 199,
-        "coverUrl": "https://i.pinimg.com/736x/b7/d0/3c/b7d03c2d985c70161aa5ac4b6a0e2413.jpg",
+        "title": "I Feel It Coming",
+        "artist": "The Weeknd",
+        "url": "https://youtu.be/iIWoYaJRryw",
+        "duration": 429,
+        "coverUrl": "https://i.pinimg.com/736x/ac/95/24/ac9524f868e50bf6aa10ddb2341cdf14.jpg",
         "lyrics": ""
       },
       {
-        "title": "Mondegreen",
-        "artist": "데이먼스이어",
-        "url": "https://youtu.be/7pGQq3Uppe8",
-        "duration": 193,
-        "coverUrl": "https://i.pinimg.com/736x/d9/cc/40/d9cc40fd6dab5d992544da5452d711aa.jpg",
+        "title": "Guilty Conscience",
+        "artist": "070 Shake",
+        "url": "https://youtu.be/82vcISfOHBY",
+        "duration": 334,
+        "coverUrl": "https://i.pinimg.com/736x/5e/39/27/5e3927c63601a46fed04453223e9edbc.jpg",
         "lyrics": ""
       },
       {
-        "title": "14 : 30",
-        "artist": "데이먼스이어",
-        "url": "https://youtu.be/MSUOvwCzndQ",
-        "duration": 210,
-        "coverUrl": "https://i.pinimg.com/736x/f2/10/9e/f2109eb036b5b68c7910b8bafd0c5e81.jpg",
+        "title": "ghostin",
+        "artist": "Ariana Grande",
+        "url": "https://youtu.be/Z1pmpDRrQhU",
+        "duration": 432,
+        "coverUrl": "https://i.pinimg.com/736x/7c/3f/af/7c3faf9d8b59d55b7b8fedef87db2b13.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "I Can't Wait To Get There",
+        "artist": "The Weeknd",
+        "url": "https://youtu.be/l8-rIurGwAE",
+        "duration": 309,
+        "coverUrl": "https://i.pinimg.com/736x/d8/58/8d/d8588d0124774ec5bb5c42ca5b0b23c6.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Fallen",
+        "artist": "Jayden Smith",
+        "url": "https://youtu.be/W6PUTaC9IdI",
+        "duration": 422,
+        "coverUrl": "https://i.pinimg.com/736x/ec/4d/29/ec4d29092680697196ae9898e28134d4.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Show U Off",
+        "artist": "Brent Faiyaz",
+        "url": "https://youtu.be/SoigUWeZeeM",
+        "duration": 411,
+        "coverUrl": "https://i.pinimg.com/736x/1b/e2/5f/1be25fa6b042fe0858a379a11036cdeb.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Floating",
+        "artist": "Mac Miller",
+        "url": "https://youtu.be/PUPYXQmQ8m8",
+        "duration": 416,
+        "coverUrl": "https://i.pinimg.com/736x/a8/e8/0a/a8e80a3a65257f903418bcf821c0ebdb.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Nangs",
+        "artist": "Tame Impala",
+        "url": "https://youtu.be/c3yEjD_oijw",
+        "duration": 148,
+        "coverUrl": "https://i.pinimg.com/736x/6b/16/96/6b169624ec7f6e7efafad5a6ea872f8f.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "PARTY 4 U",
+        "artist": "Charli XCX",
+        "url": "https://youtu.be/tmiMR5x30HI",
+        "duration": 457,
+        "coverUrl": "https://i.pinimg.com/736x/01/4f/d3/014fd39d94fccee775a8b36005659f2b.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Die Hard",
+        "artist": "Kendrick Lamar ft. Blxst & Amanda Reifer",
+        "url": "https://youtu.be/Lx3MGrafykU",
+        "duration": 359,
+        "coverUrl": "https://i.pinimg.com/736x/b0/56/aa/b056aa54eaba46b5c638f39175098799.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "running out of time",
+        "artist": "Lil Yachty",
+        "url": "https://youtu.be/eQRyZE2r7oM",
+        "duration": 429,
+        "coverUrl": "https://i.pinimg.com/736x/37/9e/3e/379e3e441c0d150c942cbd59bf6e1df5.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Pure Imagination",
+        "artist": "Timothée Chalamet",
+        "url": "https://youtu.be/b4wHnf9VTRk",
+        "duration": 310,
+        "coverUrl": "https://i.pinimg.com/736x/67/7a/75/677a7535ea1e1d554121165cd7a5bd1b.jpg",
+        "lyrics": ""
+      }
+    ]
+  },
+  {
+    "id": "playlist4",
+    "title": "Let's go on a trip to the beach",
+    "coverUrl": "https://i.pinimg.com/736x/65/c0/2f/65c02f7068dd4ffaea3366996879990d.jpg",
+    "songs": [
+      {
+        "title": "여행",
+        "artist": "BOL4(볼빨간사춘기)",
+        "url": "https://www.youtube.com/watch?v=g6U2SS-ZMy8",
+        "duration": 341,
+        "coverUrl": "https://i.pinimg.com/736x/bb/aa/81/bbaa8163f2465dc15eda0567c149389e.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Electricity",
+        "artist": "Silk City, Dua Lipa",
+        "url": "https://youtu.be/XJcU-iKqQxY",
+        "duration": 355,
+        "coverUrl": "https://i.pinimg.com/736x/8a/c2/e2/8ac2e2a94bce29e8d451fada96281390.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Sum",
+        "artist": "BLU-SWING",
+        "url": "https://youtu.be/1_G-D-YcxbE",
+        "duration": 427,
+        "coverUrl": "https://i.pinimg.com/736x/8a/4f/fc/8a4ffc874abc4ec582dafcd4ec62aad2.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Intimidated",
+        "artist": "KAYTRANADA (ft. H.E.R.)",
+        "url": "https://youtu.be/MK9hxakQMN8",
+        "duration": 331,
+        "coverUrl": "https://i.pinimg.com/736x/e1/a4/b8/e1a4b8f7851bdee4e625d373d1c79388.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Latch",
+        "artist": "Disclosure (ft. Sam Smith)",
+        "url": "https://youtu.be/93ASUImTedo",
+        "duration": 416,
+        "coverUrl": "https://i.pinimg.com/736x/f4/80/ad/f480ad7d286f549acc5daf2a21daaa79.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Add Up My Love",
+        "artist": "Clairo",
+        "url": "https://youtu.be/hLrGvkul3_k",
+        "duration": 325,
+        "coverUrl": "https://i.pinimg.com/736x/e3/8a/cc/e38acc95b23a6dca3caf1e243bc8966e.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "FAMJAM4000",
+        "artist": "Jordan Ward",
+        "url": "https://youtu.be/hWpv5-yQ5Xk",
+        "duration": 238,
+        "coverUrl": "https://i.pinimg.com/736x/c4/cd/fe/c4cdfee14de98b08dc0dca531786743c.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Indecision",
+        "artist": "Sampha",
+        "url": "https://youtu.be/FF8okFt4bGg",
+        "duration": 428,
+        "coverUrl": "https://i.pinimg.com/736x/64/e0/00/64e000a7f471379683488b5d3ac80b13.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "GOT IT GOOD",
+        "artist": "KAYTRANADA",
+        "url": "https://youtu.be/bAX9envvbj4",
+        "duration": 348,
+        "coverUrl": "https://i.pinimg.com/736x/5b/dd/8d/5bdd8d06644bdfa48935d783327f4d97.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "drive ME crazy!",
+        "artist": "Lil Yachty",
+        "url": "https://youtu.be/dGgBzSfgVsA",
+        "duration": 349,
+        "coverUrl": "https://i.pinimg.com/736x/e4/da/5d/e4da5d65faa049ef5d178e74460686d5.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "No Excuses",
+        "artist": "Childish Gambino (ft. Ludwig Göransson, Kamasi Washington)",
+        "url": "https://youtu.be/LLi3upUJDYQ",
+        "duration": 723,
+        "coverUrl": "https://i.pinimg.com/736x/6f/7a/12/6f7a12bc14d2ec40c261144059fec9f9.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "I Like You",
+        "artist": "GongGongGoo009",
+        "url": "https://youtu.be/xrjz2sVsiMI",
+        "duration": 416,
+        "coverUrl": "https://i.pinimg.com/736x/e7/c7/63/e7c7636b0b39eeb9bdd9e4c13b340f34.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Brick",
+        "artist": "Mkgee",
+        "url": "https://youtu.be/XymWqWnjb1o",
+        "duration": 344,
+        "coverUrl": "https://i.pinimg.com/736x/68/15/06/681506b6c6fa97c66abf06a1059a07e3.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "산책",
+        "artist": "GongGongGoo009",
+        "url": "https://youtu.be/FJCBz2KP7x4",
+        "duration": 344,
+        "coverUrl": "https://i.pinimg.com/736x/92/d7/45/92d74539d48ffe54bb812506278d7835.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Godspeed",
+        "artist": "Frank Ocean",
+        "url": "https://youtu.be/P18g4rKns6Q",
+        "duration": 257,
+        "coverUrl": "https://i.pinimg.com/736x/6d/08/ad/6d08ad7f5fabca35277299c88ddaac1c.jpg",
         "lyrics": ""
       }
     ]
@@ -292,440 +570,163 @@
       }
     ]
   },
-    {
-    "id": "playlist4",
-    "title": "Let's go on a trip to the beach",
-    "coverUrl": "https://i.pinimg.com/736x/65/c0/2f/65c02f7068dd4ffaea3366996879990d.jpg",
-    "songs": [
-      {
-        "title": "여행",
-        "artist": "BOL4(볼빨간사춘기)",
-        "url": "https://www.youtube.com/watch?v=g6U2SS-ZMy8",
-        "duration": 341,
-        "coverUrl": "https://i.pinimg.com/736x/bb/aa/81/bbaa8163f2465dc15eda0567c149389e.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "Electricity",
-        "artist": "Silk City, Dua Lipa",
-        "url": "https://youtu.be/XJcU-iKqQxY",
-        "duration": 355,
-        "coverUrl": "https://i.pinimg.com/736x/8a/c2/e2/8ac2e2a94bce29e8d451fada96281390.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "Sum",
-        "artist": "BLU-SWING",
-        "url": "https://youtu.be/1_G-D-YcxbE",
-        "duration": 427,
-        "coverUrl": "https://i.pinimg.com/736x/8a/4f/fc/8a4ffc874abc4ec582dafcd4ec62aad2.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "Intimidated",
-        "artist": "KAYTRANADA (ft. H.E.R.)",
-        "url": "https://youtu.be/MK9hxakQMN8",
-        "duration": 331,
-        "coverUrl": "https://i.pinimg.com/736x/e1/a4/b8/e1a4b8f7851bdee4e625d373d1c79388.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "Latch",
-        "artist": "Disclosure (ft. Sam Smith)",
-        "url": "https://youtu.be/93ASUImTedo",
-        "duration": 416,
-        "coverUrl": "https://i.pinimg.com/736x/f4/80/ad/f480ad7d286f549acc5daf2a21daaa79.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "Add Up My Love",
-        "artist": "Clairo",
-        "url": "https://youtu.be/hLrGvkul3_k",
-        "duration": 325,
-        "coverUrl": "https://i.pinimg.com/736x/e3/8a/cc/e38acc95b23a6dca3caf1e243bc8966e.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "FAMJAM4000",
-        "artist": "Jordan Ward",
-        "url": "https://youtu.be/hWpv5-yQ5Xk",
-        "duration": 238,
-        "coverUrl": "https://i.pinimg.com/736x/c4/cd/fe/c4cdfee14de98b08dc0dca531786743c.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "Indecision",
-        "artist": "Sampha",
-        "url": "https://youtu.be/FF8okFt4bGg",
-        "duration": 428,
-        "coverUrl": "https://i.pinimg.com/736x/64/e0/00/64e000a7f471379683488b5d3ac80b13.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "GOT IT GOOD",
-        "artist": "KAYTRANADA",
-        "url": "https://youtu.be/bAX9envvbj4",
-        "duration": 348,
-        "coverUrl": "https://i.pinimg.com/736x/5b/dd/8d/5bdd8d06644bdfa48935d783327f4d97.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "drive ME crazy!",
-        "artist": "Lil Yachty",
-        "url": "https://youtu.be/dGgBzSfgVsA",
-        "duration": 349,
-        "coverUrl": "https://i.pinimg.com/736x/e4/da/5d/e4da5d65faa049ef5d178e74460686d5.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "No Excuses",
-        "artist": "Childish Gambino (ft. Ludwig Göransson, Kamasi Washington)",
-        "url": "https://youtu.be/LLi3upUJDYQ",
-        "duration": 723,
-        "coverUrl": "https://i.pinimg.com/736x/6f/7a/12/6f7a12bc14d2ec40c261144059fec9f9.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "I Like You",
-        "artist": "GongGongGoo009",
-        "url": "https://youtu.be/xrjz2sVsiMI",
-        "duration": 416,
-        "coverUrl": "https://i.pinimg.com/736x/e7/c7/63/e7c7636b0b39eeb9bdd9e4c13b340f34.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "Brick",
-        "artist": "Mkgee",
-        "url": "https://youtu.be/XymWqWnjb1o",
-        "duration": 344,
-        "coverUrl": "https://i.pinimg.com/736x/68/15/06/681506b6c6fa97c66abf06a1059a07e3.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "산책",
-        "artist": "GongGongGoo009",
-        "url": "https://youtu.be/FJCBz2KP7x4",
-        "duration": 344,
-        "coverUrl": "https://i.pinimg.com/736x/92/d7/45/92d74539d48ffe54bb812506278d7835.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "Godspeed",
-        "artist": "Frank Ocean",
-        "url": "https://youtu.be/P18g4rKns6Q",
-        "duration": 257,
-        "coverUrl": "https://i.pinimg.com/736x/6d/08/ad/6d08ad7f5fabca35277299c88ddaac1c.jpg",
-        "lyrics": ""
-      }
-    ]
-  },
   {
-    "id": "playlist5",
-    "title": "밤에 드라이브할 때 이런 노래가 흘러나오겠지",
-    "coverUrl": "https://i.pinimg.com/736x/7c/56/5e/7c565ef4dc8832108de9688c6549ee69.jpg",
+    "id": "playlist2",
+    "title": "이 겨울이 지나고 봄날이 오면 우리 만날 수 있을까요",
+    "coverUrl": "https://i.pinimg.com/736x/8b/5e/8b/8b5e8b30a46e23199c8cbf740cc6e428.jpg",
     "songs": [
       {
-        "title": "Nights",
-        "artist": "Frank Ocean",
-        "url": "https://youtu.be/r4l9bFqgMaQ",
-        "duration": 507,
-        "coverUrl": "https://i.pinimg.com/736x/62/e2/6b/62e26b56fe13b0e77e8aeab7114b439b.jpg",
+        "title": "조금만 외로우면 널 사랑할 수 있어",
+        "artist": "문빛",
+        "url": "https://youtu.be/LVU0QIdWNO4",
+        "duration": 174,
+        "coverUrl": "https://i.pinimg.com/736x/cb/e5/4f/cbe54f2102cc320ca932565e0d105d26.jpg",
         "lyrics": ""
       },
       {
-        "title": "Suspended",
-        "artist": "Sampha",
-        "url": "https://youtu.be/3SlvAyvmEE8",
-        "duration": 305,
-        "coverUrl": "https://i.pinimg.com/736x/4c/a1/3b/4ca13bf3f89111110506871f7f794e8f.jpg",
+        "title": "사랑일까 (with 조소정)",
+        "artist": "홍기은",
+        "url": "https://youtu.be/pSSCdq1Byws",
+        "duration": 246,
+        "coverUrl": "https://i.pinimg.com/736x/b5/7d/1f/b57d1f9c7a99ca0f488755e6ece2570d.jpg",
         "lyrics": ""
       },
       {
-        "title": "I Feel It Coming",
-        "artist": "The Weeknd",
-        "url": "https://youtu.be/iIWoYaJRryw",
-        "duration": 429,
-        "coverUrl": "https://i.pinimg.com/736x/ac/95/24/ac9524f868e50bf6aa10ddb2341cdf14.jpg",
+        "title": "유영",
+        "artist": "조소정",
+        "url": "https://youtu.be/YAjpRqKOh1Q",
+        "duration": 225,
+        "coverUrl": "https://i.pinimg.com/736x/be/3c/1a/be3c1a09344c74e4a211652cdd5aebe5.jpg",
         "lyrics": ""
       },
       {
-        "title": "Guilty Conscience",
-        "artist": "070 Shake",
-        "url": "https://youtu.be/82vcISfOHBY",
-        "duration": 334,
-        "coverUrl": "https://i.pinimg.com/736x/5e/39/27/5e3927c63601a46fed04453223e9edbc.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "ghostin",
-        "artist": "Ariana Grande",
-        "url": "https://youtu.be/Z1pmpDRrQhU",
-        "duration": 432,
-        "coverUrl": "https://i.pinimg.com/736x/7c/3f/af/7c3faf9d8b59d55b7b8fedef87db2b13.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "I Can't Wait To Get There",
-        "artist": "The Weeknd",
-        "url": "https://youtu.be/l8-rIurGwAE",
-        "duration": 309,
-        "coverUrl": "https://i.pinimg.com/736x/d8/58/8d/d8588d0124774ec5bb5c42ca5b0b23c6.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "Fallen",
-        "artist": "Jayden Smith",
-        "url": "https://youtu.be/W6PUTaC9IdI",
-        "duration": 422,
-        "coverUrl": "https://i.pinimg.com/736x/ec/4d/29/ec4d29092680697196ae9898e28134d4.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "Show U Off",
-        "artist": "Brent Faiyaz",
-        "url": "https://youtu.be/SoigUWeZeeM",
-        "duration": 411,
-        "coverUrl": "https://i.pinimg.com/736x/1b/e2/5f/1be25fa6b042fe0858a379a11036cdeb.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "Floating",
-        "artist": "Mac Miller",
-        "url": "https://youtu.be/PUPYXQmQ8m8",
-        "duration": 416,
-        "coverUrl": "https://i.pinimg.com/736x/a8/e8/0a/a8e80a3a65257f903418bcf821c0ebdb.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "Nangs",
-        "artist": "Tame Impala",
-        "url": "https://youtu.be/c3yEjD_oijw",
-        "duration": 148,
-        "coverUrl": "https://i.pinimg.com/736x/6b/16/96/6b169624ec7f6e7efafad5a6ea872f8f.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "PARTY 4 U",
-        "artist": "Charli XCX",
-        "url": "https://youtu.be/tmiMR5x30HI",
-        "duration": 457,
-        "coverUrl": "https://i.pinimg.com/736x/01/4f/d3/014fd39d94fccee775a8b36005659f2b.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "Die Hard",
-        "artist": "Kendrick Lamar ft. Blxst & Amanda Reifer",
-        "url": "https://youtu.be/Lx3MGrafykU",
-        "duration": 359,
-        "coverUrl": "https://i.pinimg.com/736x/b0/56/aa/b056aa54eaba46b5c638f39175098799.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "running out of time",
-        "artist": "Lil Yachty",
-        "url": "https://youtu.be/eQRyZE2r7oM",
-        "duration": 429,
-        "coverUrl": "https://i.pinimg.com/736x/37/9e/3e/379e3e441c0d150c942cbd59bf6e1df5.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "Pure Imagination",
-        "artist": "Timothée Chalamet",
-        "url": "https://youtu.be/b4wHnf9VTRk",
-        "duration": 310,
-        "coverUrl": "https://i.pinimg.com/736x/67/7a/75/677a7535ea1e1d554121165cd7a5bd1b.jpg",
-        "lyrics": ""
-      }
-    ]
-  },
-  {
-    "id": "playlist6",
-    "title": "유독 당신이 곁에 없는 이 밤이 너무 외롭습니다",
-    "coverUrl": "https://i.pinimg.com/736x/90/56/00/905600d3e1c77621ee6ec2e892bbe2f6.jpg",
-    "songs": [
-      {
-        "title": "Merry Christmas Mr. Lawrence",
-        "artist": "Ryuichi Sakamoto",
-        "url": "https://youtu.be/z9tECKZ60zk",
-        "duration": 552,
-        "coverUrl": "https://i.pinimg.com/1200x/14/94/0f/14940ff83152ac42e8044f321c51a627.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "사계 四季 Shiki",
-        "artist": "Taeko Onuki & Ryuichi Sakamoto",
-        "url": "https://youtu.be/dgvBHhGTE9k",
-        "duration": 443,
-        "coverUrl": "https://i.pinimg.com/736x/b3/fc/0c/b3fc0c97a367d40b2837e002d27aa49f.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "Shining Boy & Little Randy",
-        "artist": "Ryuichi Sakamoto",
-        "url": "https://youtu.be/AXWbVq37Wks",
-        "duration": 548,
-        "coverUrl": "https://i.pinimg.com/736x/0d/0d/fa/0d0dfa7de6816618f700b21b002d0176.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "Bibo no Aozora",
-        "artist": "Taeko Onuki & Ryuichi Sakamoto",
-        "url": "https://youtu.be/vnFb1ewtvHI",
-        "duration": 505,
-        "coverUrl": "https://i.pinimg.com/736x/a8/71/cd/a871cd20d84094f84eff188dbbdbdb75.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "MUJI2020",
-        "artist": "Ryuichi Sakamoto",
-        "url": "https://youtu.be/XqUYrDjrmpc",
-        "duration": 214,
-        "coverUrl": "https://i.pinimg.com/736x/dc/e8/c8/dce8c89c00f0f0d65b886eeef0a49e49.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "Aka Tombo",
-        "artist": "Taeko Onuki & Ryuichi Sakamoto",
-        "url": "https://youtu.be/bJ99xEM0o64",
-        "duration": 307,
-        "coverUrl": "https://i.pinimg.com/1200x/6a/65/84/6a6584ac1f99da8485d5c00ec1222127.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "Mizu no Naka no Bagatelle",
-        "artist": "Ryuichi Sakamoto",
-        "url": "https://youtu.be/gxXZilNApTg",
-        "duration": 345,
-        "coverUrl": "https://i.pinimg.com/1200x/cc/ca/ec/cccaeca60f7c5db94bb382800f72a666.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "Minamata Piano Theme",
-        "artist": "Ryuichi Sakamoto",
-        "url": "https://youtu.be/l0E_oYBX-uY",
-        "duration": 251,
-        "coverUrl": "https://i.pinimg.com/736x/95/9c/f3/959cf3f1cede415a412612081c4db69e.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "Opus - ending",
-        "artist": "Ryuichi Sakamoto",
-        "url": "https://youtu.be/7WZMUn_OTL8",
+        "title": "바닷가",
+        "artist": "다린",
+        "url": "https://youtu.be/FUwC7tsryO4",
         "duration": 304,
-        "coverUrl": "https://i.pinimg.com/736x/0c/b1/85/0cb185df5a2e57da5b7c5805215665b2.jpg",
+        "coverUrl": "https://i.pinimg.com/736x/46/ad/f6/46adf6929a8d803a810d1562d42b26e9.jpg",
         "lyrics": ""
       },
       {
-        "title": "Flower",
-        "artist": "Taeko Onuki & Ryuichi Sakamoto",
-        "url": "https://youtu.be/I14ejAHJwJI",
-        "duration": 510,
-        "coverUrl": "https://i.pinimg.com/1200x/75/44/54/754454e9eddfe69eb71b83eb3d63de74.jpg",
+        "title": "나랑 도망가자",
+        "artist": "밍기뉴",
+        "url": "https://youtu.be/zwYhHynBdJ0",
+        "duration": 113,
+        "coverUrl": "https://i.pinimg.com/736x/e9/83/59/e983590927ca40bc687946286020f333.jpg",
         "lyrics": ""
       },
       {
-        "title": "A Flower is not a Flower",
-        "artist": "Ryuichi Sakamoto",
-        "url": "https://youtu.be/99-dvtlgMSs",
-        "duration": 634,
-        "coverUrl": "https://i.pinimg.com/736x/81/dc/bc/81dcbc1466e02eeadc5052299c4f5dca.jpg",
+        "title": "뭇별",
+        "artist": "신지훈",
+        "url": "https://youtu.be/hWUAFe5RB2k",
+        "duration": 233,
+        "coverUrl": "https://i.pinimg.com/736x/98/86/60/988660eaa9acd4fcd3e04541a7916141.jpg",
         "lyrics": ""
       },
       {
-        "title": "24",
-        "artist": "Kanye West ft Sunday Service & kayCyy ",
-        "url": "https://youtu.be/1ZruyLyauWc",
-        "duration": 454,
-        "coverUrl": "https://i.pinimg.com/736x/c0/84/db/c084dbf104bbf5747b0cdf672264aed2.jpg",
+        "title": "나랑 아니면",
+        "artist": "검정치마",
+        "url": "https://youtu.be/8fTjSldjtsA",
+        "duration": 271,
+        "coverUrl": "https://i.pinimg.com/736x/7a/db/d1/7adbd11a0088183da1ad4703bc8dc0df.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "I KNOW",
+        "artist": "이제",
+        "url": "https://youtu.be/belrYAfAGyw",
+        "duration": 201,
+        "coverUrl": "https://i.pinimg.com/736x/a4/22/25/a422258f7e9800b3c3e15231e4ab1db7.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "내일도 날 사랑해줄건가요",
+        "artist": "정우",
+        "url": "https://youtu.be/CUtqa7V5mN0",
+        "duration": 199,
+        "coverUrl": "https://i.pinimg.com/736x/b7/d0/3c/b7d03c2d985c70161aa5ac4b6a0e2413.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Mondegreen",
+        "artist": "데이먼스이어",
+        "url": "https://youtu.be/7pGQq3Uppe8",
+        "duration": 193,
+        "coverUrl": "https://i.pinimg.com/736x/d9/cc/40/d9cc40fd6dab5d992544da5452d711aa.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "14 : 30",
+        "artist": "데이먼스이어",
+        "url": "https://youtu.be/MSUOvwCzndQ",
+        "duration": 210,
+        "coverUrl": "https://i.pinimg.com/736x/f2/10/9e/f2109eb036b5b68c7910b8bafd0c5e81.jpg",
         "lyrics": ""
       }
     ]
   },
   {
-    "id": "playlist7",
-    "title": "해바라기 향이 나는 사람들 찾아 모험을 떠날거야",
-    "coverUrl": "https://i.pinimg.com/736x/f1/82/2c/f1822cf3bf3d4bb5f42d3cf45e7e4045.jpg",
+    "id": "playlist1",
+    "title": "너를 위한 노래들 ~ :)",
+    "coverUrl": "https://i.pinimg.com/736x/38/c2/bb/38c2bb1ed07e9bcda59c875d5006b37d.jpg",
     "songs": [
       {
-        "title": "just forget",
-        "artist": "Force of nature",
-        "url": "https://youtu.be/YeS3PDfUeqM",
-        "duration": 355,
-        "coverUrl": "https://i.pinimg.com/1200x/a6/1c/db/a61cdba4af7acede93dfb75ae4b62608.jpg",
+        "title": "My shadow",
+        "artist": "The Black Skirts",
+        "url": "https://www.youtube.com/watch?v=T15zuMtqBoE",
+        "duration": 237,
+        "coverUrl": "https://i.pinimg.com/736x/c9/4a/55/c94a5500a7f70330f9b5405e95beb59e.jpg",
         "lyrics": ""
       },
       {
-        "title": "tsurugi no mai",
-        "artist": "Nujabes",
-        "url": "https://youtu.be/m2E6s5TaO5A",
-        "duration": 326,
-        "coverUrl": "https://i.pinimg.com/1200x/cd/50/6c/cd506c06213403c02a27f9e49bd24946.jpg",
+        "title": "Luther",
+        "artist": "Kendrick Lamar (feat. SZA)",
+        "url": "https://www.youtube.com/watch?v=HfWLgELllZs",
+        "duration": 251,
+        "coverUrl": "https://i.pinimg.com/736x/2d/02/d0/2d02d0954c6441a43975e486ba5ca8e5.jpg",
         "lyrics": ""
       },
       {
-        "title": "aruarian dance",
-        "artist": "Nujabes",
-        "url": "https://youtu.be/qYcoJpqCha4",
-        "duration": 410,
-        "coverUrl": "https://i.pinimg.com/1200x/1c/6a/98/1c6a98f454134ede799d40cac6f0181d.jpg",
+        "title": "Get You",
+        "artist": "Daniel Caesar (feat. Kali Uchis)",
+        "url": "https://youtu.be/xyUQKDE57Ag",
+        "duration": 271,
+        "coverUrl": "https://i.pinimg.com/736x/e3/ea/bb/e3eabb3686737fe1e92ad5cb0a26ba22.jpg",
         "lyrics": ""
       },
       {
-        "title": "the space between two world",
-        "artist": "Nujabes",
-        "url": "https://youtu.be/LaclhJaybFo",
-        "duration": 441,
-        "coverUrl": "https://i.pinimg.com/1200x/13/b3/d7/13b3d71c823bba5574e206d470bf25ee.jpg",
+        "title": "Give Me Mercy",
+        "artist": "The Weeknd",
+        "url": "https://www.youtube.com/watch?v=cVoO8ZYXkrQ",
+        "duration": 198,
+        "coverUrl": "https://i.pinimg.com/736x/18/d2/02/18d2024056bf31251ac9cd61c0a7abc3.jpg",
         "lyrics": ""
       },
       {
-        "title": "Counting Stars",
-        "artist": "Nujabes",
-        "url": "https://youtu.be/JQhjXXJpjlk",
-        "duration": 407,
-        "coverUrl": "https://i.pinimg.com/1200x/3b/c8/13/3bc813d5f3812a71d782ea756f997842.jpg",
+        "title": "New Year",
+        "artist": "Mk.gee",
+        "url": "https://www.youtube.com/watch?v=iGQjD4gOzNM",
+        "duration": 214,
+        "coverUrl": "https://i.pinimg.com/736x/8f/38/37/8f3837b43b84466632b750ceabb020ed.jpg",
         "lyrics": ""
       },
       {
-        "title": "mystline",
-        "artist": "Nujabes",
-        "url": "https://youtu.be/Sww2K8e4Kdk",
-        "duration": 450,
-        "coverUrl": "https://i.pinimg.com/736x/7c/02/56/7c02560d0d0e47794d1cfe562a6414ec.jpg",
+        "title": "Thinkin Bout You",
+        "artist": "Frank Ocean",
+        "url": "https://www.youtube.com/watch?v=6JHu3b-pbh8",
+        "duration": 200,
+        "coverUrl": "https://i.pinimg.com/736x/cf/d8/83/cfd88399b71a5fe08589d248ebc1c351.jpg",
         "lyrics": ""
       },
       {
-        "title": "transcendence",
-        "artist": "Nujabes",
-        "url": "https://youtu.be/TuKveXAklI4",
-        "duration": 701,
-        "coverUrl": "https://i.pinimg.com/736x/eb/c0/51/ebc05122a71265eebeba5c67c049e1ba.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "Luv (sic)",
-        "artist": "Nujabes",
-        "url": "https://youtu.be/iNa4KjZrhOo",
-        "duration": 446,
-        "coverUrl": "https://i.pinimg.com/1200x/2f/97/bb/2f97bbd23c99ff62157d41fa165a95b4.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "flowers",
-        "artist": "Nujabes",
-        "url": "https://youtu.be/JG_6yh-nIaE",
-        "duration": 359,
-        "coverUrl": "https://i.pinimg.com/736x/2e/c7/58/2ec758f10fddbbf8b21edcc69cfe29fa.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "Same Ol' Thing",
-        "artist": "FORCE OF NATURE",
-        "url": "https://youtu.be/cTN6WeO0oIs",
-        "duration": 527,
-        "coverUrl": "https://i.pinimg.com/736x/b3/e2/3d/b3e23dc6888c52707b2e777134934954.jpg",
+        "title": "Let's go watch the stars",
+        "artist": "Jeok-Jae",
+        "url": "https://www.youtube.com/watch?v=Mz031oU0Xfw",
+        "duration": 242,
+        "coverUrl": "https://i.pinimg.com/736x/bd/65/d5/bd65d54d9a0028d6868c369536b1911a.jpg",
         "lyrics": ""
       }
     ]
   }
+  
 ]
