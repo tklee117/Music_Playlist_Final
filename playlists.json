@@ -642,122 +642,8 @@
     ]
   },
   {
-    "id": "playlist6",
-    "title": "벗       "lyrics": ""
-      },
-      {
-        "title": "Opus - ending",
-        "artist": "Ryuichi Sakamoto",
-        "url": "https://youtu.be/7WZMUn_OTL8",
-        "duration": 304,
-        "coverUrl": "https://i.pinimg.com/736x/0c/b1/85/0cb185df5a2e57da5b7c5805215665b2.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "Flower",
-        "artist": "Taeko Onuki & Ryuichi Sakamoto",
-        "url": "https://youtu.be/I14ejAHJwJI",
-        "duration": 510,
-        "coverUrl": "https://i.pinimg.com/1200x/75/44/54/754454e9eddfe69eb71b83eb3d63de74.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "A Flower is not a Flower",
-        "artist": "Ryuichi Sakamoto",
-        "url": "https://youtu.be/99-dvtlgMSs",
-        "duration": 634,
-        "coverUrl": "https://i.pinimg.com/736x/81/dc/bc/81dcbc1466e02eeadc5052299c4f5dca.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "24",
-        "artist": "Kanye West ft Sunday Service & kayCyy ",
-        "url": "https://youtu.be/1ZruyLyauWc",
-        "duration": 454,
-        "coverUrl": "https://i.pinimg.com/736x/c0/84/db/c084dbf104bbf5747b0cdf672264aed2.jpg",
-        "lyrics": ""
-      }
-    ]
-  },
-  {
-    "id": "playlist6",
-    "title": "벚꽃 보면서 걷기 딱 좋은 날씨네요 ㅎ       "lyrics": ""
-      },
-      {
-        "title": "Opus - ending",
-        "artist": "Ryuichi Sakamoto",
-        "url": "https://youtu.be/7WZMUn_OTL8",
-        "duration": 304,
-        "coverUrl": "https://i.pinimg.com/736x/0c/b1/85/0cb185df5a2e57da5b7c5805215665b2.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "Flower",
-        "artist": "Taeko Onuki & Ryuichi Sakamoto",
-        "url": "https://youtu.be/I14ejAHJwJI",
-        "duration": 510,
-        "coverUrl": "https://i.pinimg.com/1200x/75/44/54/754454e9eddfe69eb71b83eb3d63de74.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "A Flower is not a Flower",
-        "artist": "Ryuichi Sakamoto",
-        "url": "https://youtu.be/99-dvtlgMSs",
-        "duration": 634,
-        "coverUrl": "https://i.pinimg.com/736x/81/dc/bc/81dcbc1466e02eeadc5052299c4f5dca.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "24",
-        "artist": "Kanye West ft Sunday Service & kayCyy ",
-        "url": "https://youtu.be/1ZruyLyauWc",
-        "duration": 454,
-        "coverUrl": "https://i.pinimg.com/736x/c0/84/db/c084dbf104bbf5747b0cdf672264aed2.jpg",
-        "lyrics": ""
-      }
-    ]
-  },
-  {
-    "id": "playlist6",
-    "title": "벗       "lyrics": ""
-      },
-      {
-        "title": "Opus - ending",
-        "artist": "Ryuichi Sakamoto",
-        "url": "https://youtu.be/7WZMUn_OTL8",
-        "duration": 304,
-        "coverUrl": "https://i.pinimg.com/736x/0c/b1/85/0cb185df5a2e57da5b7c5805215665b2.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "Flower",
-        "artist": "Taeko Onuki & Ryuichi Sakamoto",
-        "url": "https://youtu.be/I14ejAHJwJI",
-        "duration": 510,
-        "coverUrl": "https://i.pinimg.com/1200x/75/44/54/754454e9eddfe69eb71b83eb3d63de74.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "A Flower is not a Flower",
-        "artist": "Ryuichi Sakamoto",
-        "url": "https://youtu.be/99-dvtlgMSs",
-        "duration": 634,
-        "coverUrl": "https://i.pinimg.com/736x/81/dc/bc/81dcbc1466e02eeadc5052299c4f5dca.jpg",
-        "lyrics": ""
-      },
-      {
-        "title": "24",
-        "artist": "Kanye West ft Sunday Service & kayCyy ",
-        "url": "https://youtu.be/1ZruyLyauWc",
-        "duration": 454,
-        "coverUrl": "https://i.pinimg.com/736x/c0/84/db/c084dbf104bbf5747b0cdf672264aed2.jpg",
-        "lyrics": ""
-      }
-    ]
-  },
-  {
-    "id": "playlist6",
-    "title": "벚꽃 보면서 걷기 딱 좋은 날씨네요 ㅎ",
+    "id": "playlist7",
+    "title": "벚꽃 보러 가기 딱 좋은 날씨네요 ㅎ",
     "coverUrl": "https://i.pinimg.com/1200x/1e/57/a1/1e57a18da3683f40ef82bdf669cc437c.jpg",
     "songs": [
       {
@@ -857,5 +743,5 @@
         "lyrics": ""
       }
     ]
-  }
+  },
 ]
