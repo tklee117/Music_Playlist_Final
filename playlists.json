@@ -1,9 +1,17 @@
 [
   {
     "id": "playlist8",
-    "title": "dddddddddddd",
-    "coverUrl": "https://i.pinimg.com/736x/f1/82/2c/f1822cf3bf3d4bb5f42d3cf45e7e4045.jpg",
+    "title": "다음 생에도 너로 태어나 나를 사랑해야지",
+    "coverUrl": "https://i.pinimg.com/736x/0e/1f/a1/0e1fa1300f010607f9cc25325a13f37b.jpg",
     "songs": [
+      {
+        "title": "Freudian (Choir Part Only)",
+        "artist": "Daniel Caesar",
+        "url": "https://youtu.be/hlCXJ42TkTY",
+        "duration": 208,
+        "coverUrl": "https://i.pinimg.com/1200x/62/ec/85/62ec857bc6d2fd51e04d013cabe3f6e2.jpg",
+        "lyrics": ""
+      },
       {
         "title": "Come Back To Earth",
         "artist": "Mac Miller",
@@ -21,6 +29,14 @@
         "lyrics": ""
       },
       {
+        "title": "Around You",
+        "artist": "Harrison",
+        "url": "https://youtu.be/uvg9ir1BYNA",
+        "duration": 151,
+        "coverUrl": "https://i.pinimg.com/1200x/ec/60/04/ec600420d38d6cd5ea8507939e9aa869.jpg",
+        "lyrics": ""
+      },
+      {
         "title": "Bad Habit",
         "artist": "Steve Lacy",
         "url": "https://youtu.be/S2PVsv2K1Bg",
@@ -29,59 +45,75 @@
         "lyrics": ""
       },
       {
-        "title": "the space between two world",
-        "artist": "Nujabes",
-        "url": "https://youtu.be/LaclhJaybFo",
-        "duration": 441,
-        "coverUrl": "https://i.pinimg.com/1200x/13/b3/d7/13b3d71c823bba5574e206d470bf25ee.jpg",
+        "title": "Little Q Pt. 2 ",
+        "artist": "Little Simz",
+        "url": "https://youtu.be/Uj_GKAEvuhM",
+        "duration": 346,
+        "coverUrl": "https://i.pinimg.com/1200x/a0/62/c7/a062c7cf21ae255af1fad8cf2affc75a.jpg",
         "lyrics": ""
       },
       {
-        "title": "Counting Stars",
-        "artist": "Nujabes",
-        "url": "https://youtu.be/JQhjXXJpjlk",
-        "duration": 407,
-        "coverUrl": "https://i.pinimg.com/1200x/3b/c8/13/3bc813d5f3812a71d782ea756f997842.jpg",
+        "title": "Passion",
+        "artist": "PinkPantheress",
+        "url": "https://youtu.be/u48i9ZzPvVs",
+        "duration": 230,
+        "coverUrl": "https://i.pinimg.com/1200x/1e/98/33/1e9833fe55f04df1c6e93901712a0f83.jpg",
         "lyrics": ""
       },
       {
-        "title": "mystline",
-        "artist": "Nujabes",
-        "url": "https://youtu.be/Sww2K8e4Kdk",
-        "duration": 450,
-        "coverUrl": "https://i.pinimg.com/736x/7c/02/56/7c02560d0d0e47794d1cfe562a6414ec.jpg",
+        "title": "Post Break Up Beauty",
+        "artist": "Kevin Abstract",
+        "url": "https://youtu.be/7TeepK-7k5c",
+        "duration": 252,
+        "coverUrl": "https://i.pinimg.com/1200x/1e/36/1d/1e361d2d9f3b6696c36be3f41ac8b5a0.jpg",
         "lyrics": ""
       },
       {
-        "title": "transcendence",
-        "artist": "Nujabes",
-        "url": "https://youtu.be/TuKveXAklI4",
-        "duration": 701,
-        "coverUrl": "https://i.pinimg.com/736x/eb/c0/51/ebc05122a71265eebeba5c67c049e1ba.jpg",
+        "title": "Always ",
+        "artist": "Daniel Caesar",
+        "url": "https://youtu.be/pKFd12id5oQ",
+        "duration": 345,
+        "coverUrl": "https://i.pinimg.com/1200x/6a/65/84/6a6584ac1f99da8485d5c00ec1222127.jpg",
         "lyrics": ""
       },
       {
-        "title": "Luv (sic)",
-        "artist": "Nujabes",
-        "url": "https://youtu.be/iNa4KjZrhOo",
-        "duration": 446,
-        "coverUrl": "https://i.pinimg.com/1200x/2f/97/bb/2f97bbd23c99ff62157d41fa165a95b4.jpg",
+        "title": "Teach Me How To Love",
+        "artist": "Galdive",
+        "url": "https://youtu.be/vPNMI5WQH1o",
+        "duration": 302,
+        "coverUrl": "https://i.pinimg.com/736x/07/ba/85/07ba8580515dbc74904130b63d3612cc.jpg",
         "lyrics": ""
       },
       {
-        "title": "flowers",
-        "artist": "Nujabes",
-        "url": "https://youtu.be/JG_6yh-nIaE",
-        "duration": 359,
-        "coverUrl": "https://i.pinimg.com/736x/2e/c7/58/2ec758f10fddbbf8b21edcc69cfe29fa.jpg",
+        "title": "Rylee & I",
+        "artist": "Mk.gee",
+        "url": "https://youtu.be/NFL0GmQ7_ws",
+        "duration": 222,
+        "coverUrl": "https://i.pinimg.com/1200x/9c/7d/93/9c7d931f8bfc7e89db3f8be54b67ffc1.jpg",
         "lyrics": ""
       },
       {
-        "title": "Same Ol' Thing",
-        "artist": "FORCE OF NATURE",
-        "url": "https://youtu.be/cTN6WeO0oIs",
-        "duration": 527,
-        "coverUrl": "https://i.pinimg.com/736x/b3/e2/3d/b3e23dc6888c52707b2e777134934954.jpg",
+        "title": "Blue",
+        "artist": "Galdive",
+        "url": "https://youtu.be/nxVtLfQdWkg",
+        "duration": 340,
+        "coverUrl": "https://i.pinimg.com/1200x/32/a2/91/32a29131ccc334cfc79bff7fb335a3fe.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Make It Forever",
+        "artist": "George Clanton",
+        "url": "https://youtu.be/MhD0aXft8gw",
+        "duration": 346,
+        "coverUrl": "https://i.pinimg.com/1200x/7f/c8/1e/7fc81e4381fe6b0c06156c6ad7530caa.jpg",
+        "lyrics": ""
+      },
+      {
+        "title": "Copy",
+        "artist": "Kevin Abstract",
+        "url": "https://youtu.be/evkG_EcnMvA?list=PLxA687tYuMWhX7PMyiykpkJdGUrUmKTFu",
+        "duration": 243,
+        "coverUrl": "https://i.pinimg.com/736x/b8/08/4c/b8084cfd22cdd5093fed95775944463e.jpg",
         "lyrics": ""
       }
     ]
