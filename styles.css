@@ -21,6 +21,7 @@ body {
     color: var(--text-color);
     min-height: 100vh;
     position: relative;
+    overflow-x: hidden;
 }
 
 body::before {
@@ -329,6 +330,12 @@ header h1 {
 }
 
 @media (max-width: 768px) {
+    .container {
+        padding: 10px;
+        margin: 0;
+        border-radius: 0;
+    }
+    
     .playlists-container {
         grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
     }
@@ -336,16 +343,27 @@ header h1 {
     .current-song-info {
         flex-direction: column;
         text-align: center;
+        width: 100%;
+        padding: 0;
     }
     
     .album-cover {
         width: 250px;
         height: 250px;
-        margin-right: 0;
-        margin-bottom: 15px;
+        margin: 0 auto 15px auto;
+    }
+    
+    .song-details {
+        width: 100%;
+        padding: 0 10px;
     }
     
     .control-button {
         margin: 0 10px;
+    }
+    
+    .player-controls {
+        width: 100%;
+        padding: 0;
     }
 }
