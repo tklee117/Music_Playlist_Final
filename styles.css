@@ -151,17 +151,18 @@ header h1 {
 
 .current-song-info {
     display: flex;
+    flex-direction: column;
     align-items: center;
     margin-bottom: 30px;
 }
 
 .album-cover {
-    width: 150px;
-    height: 150px;
+    width: 300px;
+    height: 300px;
     border-radius: 10px;
     overflow: hidden;
     box-shadow: 0 4px 10px var(--shadow-color);
-    margin-right: 20px;
+    margin: 0 auto 20px auto;
 }
 
 .album-cover img {
@@ -172,6 +173,7 @@ header h1 {
 
 .song-details {
     flex: 1;
+    text-align: center;
 }
 
 .song-details h3 {
@@ -337,6 +339,8 @@ header h1 {
     }
     
     .album-cover {
+        width: 250px;
+        height: 250px;
         margin-right: 0;
         margin-bottom: 15px;
     }
@@ -344,4 +348,4 @@ header h1 {
     .control-button {
         margin: 0 10px;
     }
-} 
+}
